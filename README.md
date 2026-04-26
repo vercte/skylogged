@@ -85,12 +85,10 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [AI Improvements](https://modrinth.com/mod/ai-improvements)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
 - [Ferritecore](https://modrinth.com/mod/ferritecore) 🖥️
-- [Flerovium](https://modrinth.com/mod/flerovium) 🖥️
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) ☁️
 - [Noisium](https://modrinth.com/mod/hasdd01q) ☁️
 - [ServerCore](https://modrinth.com/mod/servercore) ☁️
 - [Sodium](https://modrinth.com/mod/AANobbMI) 🖥️
-- [Vanillin](https://modrinth.com/mod/flw-vanillin) 🖥️
 
 ### Dev QOL
 - [Chunky](https://modrinth.com/mod/chunky) ☁️

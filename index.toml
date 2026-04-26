@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "2071c77b2dee7650dc1784bddd260747ecb81cb02a34ed92ffce0f72d4c85890"
+hash = "21559cfc15730195e0f44642687d140537b7589859fd9e72590afdb7e4495922"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -453,21 +453,6 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "19c09828ce6d394ec1d9906b1a6ff02998052274024182e83027c6e8eee9eb04"
-metafile = true
-
-[[files]]
-file = "mods/flerovium.pw.toml"
-hash = "ba78231dfcbe61e2df15ff861fad0bc6c6594ba1425280ae0de86a044407d07e"
-metafile = true
-
-[[files]]
-file = "mods/flw-vanillin.pw.toml"
-hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
-metafile = true
-
-[[files]]
-file = "mods/flywheel.pw.toml"
-hash = "f6e34f39219555376b733cb3fce8406dee789192381425079c2d10c58c8420fb"
 metafile = true
 
 [[files]]
