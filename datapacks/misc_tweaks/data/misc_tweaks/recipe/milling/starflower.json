@@ -1,0 +1,18 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "nomansland:starflower"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "id": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.75,
+      "id": "minecraft:white_dye"
+    }
+  ]
+}

@@ -32,5 +32,19 @@
       "createbigcannons:recoil_spring"
     ],
     "mod": "createbigcannons"
+  },
+  {
+    "action": "remove_recipe",
+    "id": "/.*(wall|stairs|slab).*/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "supplementaries",
+    "id": "/.*_brace/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "minecraft", "nomansland" ],
+    "id": "/.*_(wood|hyphae)/"
   }
 ]

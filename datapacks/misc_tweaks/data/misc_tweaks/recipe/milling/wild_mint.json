@@ -1,0 +1,18 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "nomansland:wild_mint"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "id": "minecraft:light_gray_dye"
+    },
+    {
+      "chance": 0.75,
+      "id": "minecraft:light_gray_dye"
+    }
+  ]
+}
