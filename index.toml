@@ -17,10 +17,6 @@ file = "config/bridgingmod.json"
 hash = "d9ea36767fb9b8754cb4ea5db29995cae8f8b1f8e665cbaf22270c5d7b5d9bea"
 
 [[files]]
-file = "config/clutternomore/startup.toml"
-hash = "a78b33e4dbd84ec808c405c0dbd5bfe852536ec609ba59fe34e47f72cc0fab14"
-
-[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "84902df9ce565d11fc794e6278d8499c3de62c123d6fd4da3f81baecbacb2a86"
 
