@@ -8,5 +8,17 @@
     "action": "remove_creative",
     "mod": "createbigcannons",
     "items": [ "createbigcannons:recoil_spring", "createbigcannons:spring_wire" ]
+  },
+  {
+    "action": "remove",
+    "items": [ "supplementaries:pulley_block", "supplementaries:slidy_block" ]
+  },
+  {
+    "action": "remove",
+    "items": [ "supplementaries:pulley_block", "supplementaries:slidy_block" ]
+  },
+  {
+    "action": "remove",
+    "patterns": "/railways:.*(tfc|blue_skies|twilightforest|biomesoplenty|create_dd|quark|hexcasting).*/"
   }
 ]

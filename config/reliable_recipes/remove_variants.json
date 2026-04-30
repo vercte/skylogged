@@ -1,0 +1,44 @@
+[
+  {
+    "action": "remove_recipe",
+    "id": "/.*(wall|stairs|slab).*/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "supplementaries",
+    "id": "/.*_brace/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "minecraft", "nomansland" ],
+    "id": "/.*_(wood|hyphae)/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "create", "simulated" ],
+    "input": [ 
+      "create:sail_frame", "create:white_sail", "simulated:white_symmetric_sail",
+      "create:speedometer", "create:stressometer",
+      "create:gearbox", "create:vertical_gearbox"
+    ]
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "create", "create_connected" ],
+    "input": [ 
+      "create:clutch", "create_connected:inverted_clutch",
+      "create:gearshift", "create_connected:inverted_gearshift",
+      "create:fluid_tank", "create_connected:fluid_vessel",
+      "create:item_vault", "create_connected:item_silo"
+    ]
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "create_connected",
+    "input": [ 
+      "create_connected:parallel_gearbox", "create_connected:vertical_parallel_gearbox",
+      "create_connected:six_way_gearbox", "create_connected:vertical_six_way_gearbox",
+      "create_connected:brass_gearbox", "create_connected:vertical_brass_gearbox"
+    ]
+  }
+]

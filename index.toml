@@ -34,11 +34,19 @@ hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
 file = "config/reliable_recipes/remove.json"
-hash = "f0ed883544c6a1b154d25a5ae371c31cc846e0cafacb4c365c2f9c8ed0a2e19d"
+hash = "f9cd5705f1f070c6cf5be8b899522b410e224dc105b772e53402db52abed43f9"
+
+[[files]]
+file = "config/reliable_recipes/remove_variants.json"
+hash = "3bfa8c19fb0b9b3186af0579b5abaf5df71f464df393142bd587ddb2c2417187"
+
+[[files]]
+file = "config/reliable_recipes/replace.json"
+hash = "4fce243397b3331f82a41c5a4931a842a59aa0a627a6c2ef27324d66224b1584"
 
 [[files]]
 file = "config/reliable_remover/remove.json"
-hash = "629d390eb45c4e3213a1a80a673b0f51a30ba1f6b58778163d368bfdc103238d"
+hash = "ebdd14d1773f88ffb7042f23b2346483c4098b9e07f2245e60ebf6fd15ec0a9f"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -65,48 +73,12 @@ file = "datapacks/misc_tweaks/data/c/tags/item/pine_nuts.json"
 hash = "8edba77eb17077dc7a68421876348acd4802af23ed386273007acb26d77ab609"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/autocannon_barrel_cast_mould.json"
-hash = "6d71db6fa66aaac5ad98602720e0ed826be5498c0a2812b23b0ddd7f0735a377"
+file = "datapacks/misc_tweaks/data/create/tags/item/pulpifiable.json"
+hash = "482a602a1ab1469ed6b9710b0e13a2745e44082c5b2e3cb5d81dd172ad2dddc4"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/autocannon_breech_cast_mould.json"
-hash = "0ee8ea862a492f7dec74907e043111552d4e2b1b7f1a485da763994a9c0c2f3b"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/autocannon_recoil_spring_cast_mould.json"
-hash = "c266e12c153b574344313ec40b73d3be8d66de9993d7c6ce6b463e848d2955e2"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/cannon_end_cast_mould.json"
-hash = "2a201273594358eb5283b228311fffe2d628dfb88b8e221cdc7df20714ac6cc9"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/large_cast_mould.json"
-hash = "49e81404f2f972cb5c88638fa60bf32f6252114d4e51f28d869a827631a4d594"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/medium_cast_mould.json"
-hash = "9a2961ddea65e39a355f3b8089baf4e0c87f0e49d7d3a3c3582f4f1cf988bbf7"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/screw_breech_cast_mould.json"
-hash = "f867c6af67a8a01ddcf80251efb0e704613b4c24b21fb813ca5e057e7e4579b7"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/sliding_breech_cast_mould.json"
-hash = "5d76c66de7c6d2faa473780724832954d56c37a9469575187e66f593d988164d"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/small_cast_mould.json"
-hash = "49c7d15b3662a1295193edee7c55b9938c110b78199f15e71e2fcf80b1052f93"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/very_large_cast_mould.json"
-hash = "8a1bc0078b31c0072364197e5f30b85965ec44c36d75d3553c8bf3f143c80ba6"
-
-[[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/advancement/recipes/misc/crafting/shaped/cannons/mould/very_small_cast_mould.json"
-hash = "b7ce78f6a00f1404f0b886ed81c15e78e17edcd73e3e33ff5b1bd16cf4b64faf"
+file = "datapacks/misc_tweaks/data/minecraft/shape_map/add_shapes.json"
+hash = "a8cc2f3dba4e892b42949df390e0824dbfdd2f49988ba3d748dbe9d1e41aef67"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/compacting/netherrack_from_scoria.json"
@@ -167,6 +139,10 @@ hash = "d5ad9fa3ad459f7ef7564f0ee2cec9ff2b404b1253c58d69af40e1d0ca16304e"
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/chain_from_zinc.json"
 hash = "0f5fbbe7e36f42ddd6811ce24171d03ad04fafa4bfae20f125d0c4b6b9180a38"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/pedestal.json"
+hash = "d23485cee12382460d894c926249736fde988428797ed6b3f8506278905735e0"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/acacia_trapdoor.json"
@@ -645,6 +621,16 @@ metafile = true
 [[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
 metafile = true
 
 [[files]]

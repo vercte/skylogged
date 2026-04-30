@@ -35,16 +35,22 @@
   },
   {
     "action": "remove_recipe",
-    "id": "/.*(wall|stairs|slab).*/"
+    "mod": [ "minecraft", "nomansland" ],
+    "output": "#minecraft:wooden_trapdoors"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "creategarnished" ],
+    "input": "#slabs"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "minecraft" ],
+    "input": "#slabs"
   },
   {
     "action": "remove_recipe",
     "mod": "supplementaries",
-    "id": "/.*_brace/"
-  },
-  {
-    "action": "remove_recipe",
-    "mod": [ "minecraft", "nomansland" ],
-    "id": "/.*_(wood|hyphae)/"
+    "output": "supplementaries:pedestal"
   }
 ]
