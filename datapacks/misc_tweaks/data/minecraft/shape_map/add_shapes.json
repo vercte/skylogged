@@ -1,0 +1,46 @@
+{
+    "purpur_block": [
+        "purpur_pillar"
+    ],
+    "create:white_sail": [
+        "simulated:white_symmetric_sail",
+        "create:sail_frame"
+    ],
+    "create:speedometer": [
+        "create:stressometer"
+    ],
+    "create:gearbox": [
+        "create:vertical_gearbox"
+    ],
+    "create:gearshift": [
+        "create_connected:inverted_gearshift"
+    ],
+    "create:clutch": [
+        "create_connected:inverted_clutch"
+    ],
+    "create_connected:parallel_gearbox": [
+        "create_connected:vertical_parallel_gearbox"
+    ],
+    "create_connected:six_way_gearbox": [
+        "create_connected:vertical_six_way_gearbox"
+    ],
+    "create_connected:brass_gearbox": [
+        "create_connected:vertical_brass_gearbox"
+    ],
+    "create:item_vault": [
+        "create_connected:item_silo"
+    ],
+    "create:fluid_tank": [
+        "create_connected:fluid_vessel"
+    ],
+    "create:creative_fluid_tank": [
+        "create_connected:creative_fluid_vessel"
+    ],
+    "create:creative_motor": [
+        "gnkinetics:creative_gear_motor"
+    ],
+    "dndecor:dark_metal_block": [
+        "dndecor:dark_metal_block_slab",
+        "dndecor:dark_metal_block_stairs"
+    ]
+}

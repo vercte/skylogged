@@ -1,0 +1,92 @@
+[
+    {
+        "action": "replace_input",
+        "target": "oak_slab",
+        "replacement": "oak_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "spruce_slab",
+        "replacement": "spruce_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "birch_slab",
+        "replacement": "birch_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "jungle_slab",
+        "replacement": "jungle_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "dark_oak_slab",
+        "replacement": "dark_oak_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "acacia_slab",
+        "replacement": "acacia_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "mangrove_slab",
+        "replacement": "mangrove_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "cherry_slab",
+        "replacement": "cherry_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "bamboo_slab",
+        "replacement": "bamboo_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "crimson_slab",
+        "replacement": "crimson_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "warped_slab",
+        "replacement": "warped_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "pale_oak_slab",
+        "replacement": "pale_oak_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "nomansland:pine_slab",
+        "replacement": "nomansland:pine_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "nomansland:willow_slab",
+        "replacement": "nomansland:willow_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "nomansland:maple_slab",
+        "replacement": "nomansland:maple_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "nomansland:walnut_slab",
+        "replacement": "nomansland:walnut_planks"
+    },
+    {
+        "action": "replace_input",
+        "target": "smooth_stone_slab",
+        "replacement": "smooth_stone"
+    },
+    {
+        "action": "replace_input",
+        "target": "stone_slab",
+        "replacement": "stone"
+    }
+]
