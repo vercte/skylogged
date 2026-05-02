@@ -19,6 +19,7 @@
     "input": [ 
       "create:sail_frame", "create:white_sail", "simulated:white_symmetric_sail",
       "create:speedometer", "create:stressometer",
+      "create:linear_chassis", "create:secondary_linear_chassis",
       "create:gearbox", "create:vertical_gearbox"
     ]
   },
@@ -40,5 +41,25 @@
       "create_connected:six_way_gearbox", "create_connected:vertical_six_way_gearbox",
       "create_connected:brass_gearbox", "create_connected:vertical_brass_gearbox"
     ]
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "dndecor",
+    "id": "/dndecor:.*diagonal.*/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "gnkinetics",
+    "output": "/gnkinetics:(shaftless|hollow).*/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "bits_n_bobs",
+    "output": "#bits_n_bobs:chairs"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "powergrid",
+    "input": "/powergrid:.*_gauge/"
   }
 ]

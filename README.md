@@ -9,6 +9,8 @@ By default, mods are **common** (installed everywhere, on both Client and Server
 - 🍎 MacOS Only
 - 🚼 Required by Parent
 
+This modpack includes [Skylogged Core](https://modrinth.com/mod/skylogged-core), a custom made mod that helps to unify the modpack further.
+
 ### Important Tweaks
 You may want to look at the premise of these mods—they can change gameplay quite a bit.
 - [Aileron](https://modrinth.com/mod/b8kG1VGq)

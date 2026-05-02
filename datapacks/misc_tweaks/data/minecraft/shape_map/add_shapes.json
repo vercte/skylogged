@@ -39,8 +39,112 @@
     "create:creative_motor": [
         "gnkinetics:creative_gear_motor"
     ],
+    "create:linear_chassis": [
+        "create:secondary_linear_chassis"
+    ],
+
+
+
     "dndecor:dark_metal_block": [
         "dndecor:dark_metal_block_slab",
         "dndecor:dark_metal_block_stairs"
+    ],
+    "create:metal_girder": [
+        "dndecor:diagonal_girder"
+    ],
+    "dndecor:metal_support": [
+        "dndecor:diagonal_metal_support"
+    ],
+
+
+
+    "create:cogwheel": [
+        "gnkinetics:shaftless_cogwheel",
+        "gnkinetics:hollow_cogwheel"
+    ],
+    "create:large_cogwheel": [
+        "gnkinetics:shaftless_large_cogwheel",
+        "gnkinetics:hollow_large_cogwheel"
+    ],
+    "gnkinetics:brass_gear": [
+        "gnkinetics:shaftless_brass_gear",
+        "gnkinetics:hollow_brass_gear"
+    ],
+    "gnkinetics:large_brass_gear": [
+        "gnkinetics:shaftless_large_brass_gear",
+        "gnkinetics:hollow_large_brass_gear"
+    ],
+    "gnkinetics:cogstone": [
+        "gnkinetics:shaftless_cogstone"
+    ],
+    "gnkinetics:andesite_cogwheel": [
+        "gnkinetics:shaftless_andesite_cogwheel"
+    ],
+    "gnkinetics:industrial_gear": [
+        "gnkinetics:shaftless_industrial_gear"
+    ],
+    "gnkinetics:large_industrial_gear": [
+        "gnkinetics:shaftless_large_industrial_gear"
+    ],
+    "gnkinetics:tiny_cogwheel": [
+        "gnkinetics:shaftless_tiny_cogwheel"
+    ],
+    "gnkinetics:tiny_brass_gear": [
+        "gnkinetics:shaftless_tiny_brass_gear"
+    ],
+
+
+    "create:white_seat": [
+        "bits_n_bobs:white_chair"
+    ],
+    "create:orange_seat": [
+        "bits_n_bobs:orange_chair"
+    ],
+    "create:magenta_seat": [
+        "bits_n_bobs:magenta_chair"
+    ],
+    "create:light_blue_seat": [
+        "bits_n_bobs:light_blue_chair"
+    ],
+    "create:yellow_seat": [
+        "bits_n_bobs:yellow_chair"
+    ],
+    "create:lime_seat": [
+        "bits_n_bobs:lime_chair"
+    ],
+    "create:pink_seat": [
+        "bits_n_bobs:pink_chair"
+    ],
+    "create:gray_seat": [
+        "bits_n_bobs:gray_chair"
+    ],
+    "create:light_gray_seat": [
+        "bits_n_bobs:light_gray_chair"
+    ],
+    "create:cyan_seat": [
+        "bits_n_bobs:cyan_chair"
+    ],
+    "create:purple_seat": [
+        "bits_n_bobs:purple_chair"
+    ],
+    "create:blue_seat": [
+        "bits_n_bobs:blue_chair"
+    ],
+    "create:brown_seat": [
+        "bits_n_bobs:brown_chair"
+    ],
+    "create:green_seat": [
+        "bits_n_bobs:green_chair"
+    ],
+    "create:red_seat": [
+        "bits_n_bobs:red_chair"
+    ],
+    "create:black_seat": [
+        "bits_n_bobs:black_chair"
+    ],
+
+    "powergrid:voltage_gauge": [
+        "powergrid:current_gauge",
+        "powergrid:power_gauge"
     ]
 }
