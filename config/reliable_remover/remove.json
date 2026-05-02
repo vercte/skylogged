@@ -11,11 +11,15 @@
   },
   {
     "action": "remove",
-    "items": [ "supplementaries:pulley_block", "supplementaries:slidy_block" ]
+    "items": [ "supplementaries:pulley_block", "supplementaries:slidy_block", "supplementaries:crank" ]
   },
   {
     "action": "remove",
-    "items": [ "supplementaries:pulley_block", "supplementaries:slidy_block" ]
+    "items": "gnkinetics:chainable_cogwheel"
+  },
+  {
+    "action": "remove",
+    "items": [ "create_connected:crank_wheel", "create_connected:large_crank_wheel" ]
   },
   {
     "action": "remove",

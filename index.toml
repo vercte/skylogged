@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ab38c2d539ab9897dcdfc88b41216a9f3498737164116f2bb35fdfb360fffcdd"
+hash = "38ceb691b7b5392753485fbbb3277c2e4bbd66588f750e573c0b63866b47966e"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -38,7 +38,7 @@ hash = "f9cd5705f1f070c6cf5be8b899522b410e224dc105b772e53402db52abed43f9"
 
 [[files]]
 file = "config/reliable_recipes/remove_variants.json"
-hash = "3bfa8c19fb0b9b3186af0579b5abaf5df71f464df393142bd587ddb2c2417187"
+hash = "12e3e4acf9d1bbcdf1cfbfabe8d966467b17c41aab6e4bae4840d1ba7b7f6fc7"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"
@@ -46,7 +46,7 @@ hash = "4fce243397b3331f82a41c5a4931a842a59aa0a627a6c2ef27324d66224b1584"
 
 [[files]]
 file = "config/reliable_remover/remove.json"
-hash = "ebdd14d1773f88ffb7042f23b2346483c4098b9e07f2245e60ebf6fd15ec0a9f"
+hash = "323f6ac409f05aeb331e7fa4a9a7750ae1d8f4639a76e810e81469069862c7a6"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -78,7 +78,7 @@ hash = "482a602a1ab1469ed6b9710b0e13a2745e44082c5b2e3cb5d81dd172ad2dddc4"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/minecraft/shape_map/add_shapes.json"
-hash = "a8cc2f3dba4e892b42949df390e0824dbfdd2f49988ba3d748dbe9d1e41aef67"
+hash = "922f046bda92fda2071b64dcd75ef6b3c877d260769c383a9f60dd4f31ff0439"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/compacting/netherrack_from_scoria.json"
@@ -323,6 +323,10 @@ hash = "ecc29761ad1c974ef47fc14df3ca246d2b132e13008851f0e6f12835cdb6d3e6"
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/yellow_lupine.json"
 hash = "985a9d58970d6941b3a805605b3e548a8c8cc581f6c870e3b193b6fe2ba4b62d"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/sable/tags/entity_type/retain_in_sub_level.json"
+hash = "bbd400f1ce1c14dda13652bf75ca5dbbd1cef5c4f48c79108c180d35d0e29152"
 
 [[files]]
 file = "datapacks/misc_tweaks/pack.mcmeta"
@@ -711,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
+metafile = true
+
+[[files]]
+file = "mods/skylogged-core.pw.toml"
+hash = "80fbe692feb9bb669d4f5151816551a5f747e8e8783d34f199a7d617805a0db4"
 metafile = true
 
 [[files]]
