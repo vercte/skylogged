@@ -34,7 +34,7 @@ hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
 file = "config/reliable_recipes/remove.json"
-hash = "f9cd5705f1f070c6cf5be8b899522b410e224dc105b772e53402db52abed43f9"
+hash = "d69fac5ac52eef5a918353fbfa19fadf418aed4883bc22ced8390b9da5a99087"
 
 [[files]]
 file = "config/reliable_recipes/remove_variants.json"
@@ -42,11 +42,11 @@ hash = "12e3e4acf9d1bbcdf1cfbfabe8d966467b17c41aab6e4bae4840d1ba7b7f6fc7"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"
-hash = "4fce243397b3331f82a41c5a4931a842a59aa0a627a6c2ef27324d66224b1584"
+hash = "c366a02a30c80c38b8a09f2c1ecfd6a811a9bd96f1a90cb12557684dfc2108fa"
 
 [[files]]
 file = "config/reliable_remover/remove.json"
-hash = "323f6ac409f05aeb331e7fa4a9a7750ae1d8f4639a76e810e81469069862c7a6"
+hash = "c00f7ef98a3e8631ad58032216bc474fb434e9f8592c38102eeafa69ce39b266"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -87,6 +87,70 @@ hash = "511c6111cec627bea9f59ff61f95689c44b0a56c461009cc342a83c71e22af00"
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/barrel.json"
 hash = "6d0587200839cc9619364fdb74832393bf8526e3ca25b958c721bad9b6ba3ae2"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/acacia_cabinet.json"
+hash = "301ac6c1857623c55d3d70cc446349c3d7e89d762fdee1bc51ddff88063e75cf"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/bamboo_cabinet.json"
+hash = "97c6e2811935383cd42a83e06b7a75ef45eaef1345189228f367ec69155b8973"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/birch_cabinet.json"
+hash = "d2dd376f2b048454745259c2ac051b02965b45d501f4c95bbb19d62b855e121f"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/cherry_cabinet.json"
+hash = "04d07c38f82082ef9fbec985f0e416bfd8bd7f1e84d7427b85d3f81d8be569b1"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/crimson_cabinet.json"
+hash = "2c7cd512114deeb1460f84a0eae086f3f7c34a867a38675a714faa86c598b3be"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/dark_oak_cabinet.json"
+hash = "2091b61c8b297c4e617b17db57cf4af9cfc6a1f22a64419df1c0d228960f23c7"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/jungle_cabinet.json"
+hash = "9f0160aed4194277f7fac4341e4dbf3b32fc6a29c83aaf841d99d398142011bb"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/mangrove_cabinet.json"
+hash = "45a52e857d6960a90246cc6d8e039c92f757393fcd7b14e7ddbd433c6932c0c6"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/maple_cabinet.json"
+hash = "20347a1ea37f5df2dde3b75eed1286f4b16e90969c14591e7ca1ec9b087ff364"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/oak_cabinet.json"
+hash = "f380782dc6e408e0af30f6e74e8f5cfcb9312f4cee745d486c3809b12e39ec18"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/pale_oak_cabinet.json"
+hash = "6a41ed5b27cb14aa70390b87844b84aad780b7f70531f49dc5193200766e56e6"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/pine_cabinet.json"
+hash = "c783209f8a656d15880fde4346fe1d3716d51345cb998b3833861b89fe40c660"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/spruce_cabinet.json"
+hash = "5048041f256c868791d48f119718f821d95b5eea7c7d93b8bae56303a38e92db"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/walnut_cabinet.json"
+hash = "2c30a6b53e36c65b118f22c9e06ab1f8c8b3c62f33918144b38eff0f8590b951"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/warped_cabinet.json"
+hash = "9ce92d32ba5b9b594dddd11b7fb85ba931b53b161269b632982c86f155b58398"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/willow_cabinet.json"
+hash = "e57d8b95972bf88264936f77ec0b93aece053753bb0e39fda715ce7d098cc953"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_barrel_cast_mould.json"
@@ -529,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a1952fa2c662b370db6a9c3824190855251c5de0c596438b63163732a2a20708"
+hash = "e756b52951b3d81c99bfebb6bcf7db8e385bb250cbdf4e8d68cc79d1c727e049"
 metafile = true
 
 [[files]]
@@ -684,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "6dd3d91085972cdba336c830f8bbea8d1af0bb62a8559337bdddc42bdcfcdf54"
+hash = "829bb279e9930f3de9653bf9508626c8e56e041ef23e26d0f0bcaf979b2a383e"
 metafile = true
 
 [[files]]
@@ -719,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/skylogged-core.pw.toml"
-hash = "80fbe692feb9bb669d4f5151816551a5f747e8e8783d34f199a7d617805a0db4"
+hash = "e07866bd9d03a9ac2d5a9c99cc584c8e47977e4091822ef24068b11e8fbb25ee"
 metafile = true
 
 [[files]]

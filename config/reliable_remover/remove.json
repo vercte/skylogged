@@ -5,11 +5,6 @@
     "items": [ "powergrid:zinc_sheet" ]
   },
   {
-    "action": "remove_creative",
-    "mod": "createbigcannons",
-    "items": [ "createbigcannons:recoil_spring", "createbigcannons:spring_wire" ]
-  },
-  {
     "action": "remove",
     "items": [ "supplementaries:pulley_block", "supplementaries:slidy_block", "supplementaries:crank" ]
   },

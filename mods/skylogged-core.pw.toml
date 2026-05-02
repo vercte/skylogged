@@ -1,15 +1,15 @@
 name = "skylogged-core"
-filename = "skylogged-1.0.0+pack3.1.0.jar"
+filename = "skylogged-1.0.1+pack3.1.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/vercte/skylogged-core/releases/download/1.0.0-pack3.1.0/skylogged-1.0.0%2Bpack3.1.0.jar"
+url = "https://github.com/vercte/skylogged-core/releases/download/1.0.1-pack3.0.1/skylogged-1.0.1%2Bpack3.1.1.jar"
 hash-format = "sha256"
-hash = "45316010c5ae11c10584073464ffeaeccab5802077ee3e6308f0e243d0dfef9e"
+hash = "1e60e0bebf06ce201eec3ac91f281f93cb42ccfdf7b2db6f907271f3d8259c5f"
 
 [update]
 [update.github]
 branch = "mc1.21.1/dev"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "vercte/skylogged-core"
-tag = "1.0.0-pack3.1.0"
+tag = "1.0.1-pack3.0.1"
