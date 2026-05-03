@@ -43,5 +43,10 @@
     "action": "remove",
     "mod": [ "farmersdelight", "nomansland", "everycomp" ],
     "output": "#farmersdelight:cabinets/wooden"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "gnkinetics",
+    "output": [ "gnkinetics:tiny_cogwheel", "gnkinetics:tiny_brass_gear" ]
   }
 ]

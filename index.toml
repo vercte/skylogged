@@ -34,11 +34,11 @@ hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
 file = "config/reliable_recipes/remove.json"
-hash = "d69fac5ac52eef5a918353fbfa19fadf418aed4883bc22ced8390b9da5a99087"
+hash = "e22df34d455207833e40f2aff021120038c2b8daef68ceaa876eb555004d178b"
 
 [[files]]
 file = "config/reliable_recipes/remove_variants.json"
-hash = "12e3e4acf9d1bbcdf1cfbfabe8d966467b17c41aab6e4bae4840d1ba7b7f6fc7"
+hash = "d4055122ce0f98de944d8b43a00202c6902389169def66fdfecf92a96396e854"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"
@@ -285,8 +285,16 @@ file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/birch_planks.json"
 hash = "3d42af20c31d19ece3e73dc566567e59d95c11c41977aab395e9238cfd63214f"
 
 [[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/brass_gear.json"
+hash = "38cd9d7b5b0bd3f2869bcb6f3d80dbda1f4d485041273b9a40430d062bd2841a"
+
+[[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/cherry_planks.json"
 hash = "ed040303cbd35b5acc88a8c3c254cc164ae0c1833f0650b6efd36e9d4ce96021"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/cogwheel.json"
+hash = "e91a30fb9dd90dd227a8b5b811a8127157b41e684059205f5d96d7f3daa27116"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/crimson_planks.json"
@@ -299,6 +307,14 @@ hash = "b9cadb28de7b3f54f2407ef05edb19146d35393cebf1771642f1729ff25f4b8c"
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/jungle_planks.json"
 hash = "cac952b31f65faa499c1e44fa98553fdd72d81044212d8f2a8686a1cc4457638"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/large_brass_gear.json"
+hash = "edd7b866f09104040b3b1be8f575745d039a04b85b39445d98bca8008a0ad804"
+
+[[files]]
+file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/large_cogwheel.json"
+hash = "afa2a86012aed7177d66ac7c5af572a4c9342131948466a11e05a04a4c63ac6d"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/mangrove_planks.json"

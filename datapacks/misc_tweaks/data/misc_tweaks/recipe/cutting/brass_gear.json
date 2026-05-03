@@ -1,0 +1,23 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "gnkinetics:brass_gear"
+    }
+  ],
+  "processing_time": 120,
+  "results": [
+    {
+      "id": "gnkinetics:tiny_brass_gear"
+    },
+    {
+      "count": 3,
+      "id": "create:brass_nugget"
+    },
+    {
+      "count": 3,
+      "chance": 0.5,
+      "id": "create:brass_nugget"
+    }
+  ]
+}

@@ -54,6 +54,11 @@
   },
   {
     "action": "remove_recipe",
+    "mod": "gnkinetics",
+    "input": "/gnkinetics:(shaftless|hollow).*/"
+  },
+  {
+    "action": "remove_recipe",
     "mod": "bits_n_bobs",
     "output": "#bits_n_bobs:chairs"
   },

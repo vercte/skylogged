@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:cogwheel"
+    }
+  ],
+  "processing_time": 80,
+  "results": [
+    {
+      "id": "gnkinetics:tiny_cogwheel"
+    }
+  ]
+}

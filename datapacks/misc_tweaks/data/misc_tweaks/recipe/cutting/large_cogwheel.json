@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:large_cogwheel"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "id": "create:cogwheel"
+    }
+  ]
+}
