@@ -88,6 +88,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 
 ### Optimization
 - [AI Improvements](https://modrinth.com/mod/ai-improvements)
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-neoforge) ☁️
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
 - [Ferritecore](https://modrinth.com/mod/ferritecore) 🖥️
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) ☁️

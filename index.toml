@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "38ceb691b7b5392753485fbbb3277c2e4bbd66588f750e573c0b63866b47966e"
+hash = "396b75bf8727fb1ebdc10772e4abd5dfc77c5f9955fe2b48d57c83b0a213ef5b"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -465,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "e1e6818397bee1cd75f05e22c9ed6ba8af4bd2a21f20f4b4b6fc773512aef24d"
 metafile = true
 
 [[files]]
