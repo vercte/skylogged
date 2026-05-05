@@ -1,0 +1,18 @@
+name = "AsyncParticles"
+filename = "AsyncParticles-21.1.0a-beta.5+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c3onkd5k/versions/2W7KDwqH/AsyncParticles-21.1.0a-beta.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b2879adb4271dff0024b08de2d6b38fb88a53e8ab10aa1927bc4c400c2d23f0861340e9360deba2b3fbaa76ad228f0d61bcce2e5640365718cbbea8043092f85"
+
+[option]
+optional = true
+default = false
+description = "Incompatible with Particle Rain. Disable that if you want to use this. Optimizes particles."
+
+[update]
+[update.modrinth]
+mod-id = "c3onkd5k"
+version = "2W7KDwqH"

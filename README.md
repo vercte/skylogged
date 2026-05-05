@@ -88,6 +88,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 
 ### Optimization
 - [AI Improvements](https://modrinth.com/mod/ai-improvements)
+- [AsyncParticles](https://modrinth.com/mod/asyncparticles) 🖥️
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-neoforge) ☁️
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
 - [Ferritecore](https://modrinth.com/mod/ferritecore) 🖥️
@@ -100,7 +101,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Chunky](https://modrinth.com/mod/chunky) ☁️
 - [CME is Bad](https://modrinth.com/mod/ubAFBxFs) 🖥️☁️
 - [Crash Assistant](https://modrinth.com/mod/crash-assistant)
-- [Discord Integration (DI)](https://modrinth.com/mod/discord-integration-(di))
+- [Discord Integration](https://modrinth.com/mod/dcintegration)
 - [End Locker](https://github.com/vercte/endlock)
 - [Paxi](https://modrinth.com/mod/CU0PAyzb)
 - [Reliable Remover](https://modrinth.com/mod/reliable-remover)
@@ -115,8 +116,6 @@ You may want to look at the premise of these mods—they can change gameplay qui
 ### Libraries
 - [Biolith](https://modrinth.com/mod/iGEl6Crx)
 - [CreativeCore](https://modrinth.com/mod/creativecore)
-- [Flywheel](https://modrinth.com/mod/flywheel)
-    - here because of vanillin
 - [Sable](https://modrinth.com/mod/sable)
 - [M.R.U](https://modrinth.com/mod/SNVQ2c0g)
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc)

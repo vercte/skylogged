@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "396b75bf8727fb1ebdc10772e4abd5dfc77c5f9955fe2b48d57c83b0a213ef5b"
+hash = "5fa882b4526cc1199d04289169b705edcfb8c3eaa91420dcd21752825864a357"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -448,6 +448,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "d9ba23a6cce766eb79780ae9767bf14ef5550baf4bde9d47a7c9648e395d1c25"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
@@ -480,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -534,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "841520a74c765cb9aef0cc35ec3f9ea3bef68b47eca8ed2643abacee6961c2ff"
+hash = "5a5568a484f0f8f3e21db7c5a68c6e306ae9e8bb507a10a3b0823af543e61348"
 metafile = true
 
 [[files]]
@@ -593,8 +603,8 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/discord-integration-(di).pw.toml"
-hash = "ccaf95f72836ea50e8c96db21208dbe51ebf981fe736105b40d63d8fe631e7bd"
+file = "mods/dcintegration.pw.toml"
+hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
 metafile = true
 
 [[files]]
@@ -629,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
+hash = "a6a1ff8fb716206a716378d045f6faee5fef180b291dff0fdaf446315d82e97a"
 metafile = true
 
 [[files]]
@@ -679,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
+hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
 
 [[files]]
@@ -719,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "e8100d935e20369ed13b31ea2423482eadd4c8ed123fd8e77320b12fa883dbb6"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
@@ -729,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "538a74dbca9ad4f93e63f65a20396a9d8d7d0c0d6cae900691a07c4dbacb0bf9"
+hash = "e957700231c39642002c26d2a15112aeb6e95394abd13fdfe96760cd072824f7"
 metafile = true
 
 [[files]]
@@ -764,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
-hash = "748402afa804b7e3da2208009a0caa4c9dea415a098776fdfaba00148d2e6d5f"
+hash = "347566bc94821bfa6fef5a8225ba92aac74f64636ae1dc5ab8a321ee65a7b008"
 metafile = true
 
 [[files]]
@@ -799,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
+hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
 metafile = true
 
 [[files]]
@@ -829,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fa0e1562f9dc89d6428546c7388dcfce8706843333d58f16cadce42b56b81085"
+hash = "ec7a83525d0e5e848acd1dbac0b24526cbc89604bbc44b29d09910dfd5f87ab2"
 metafile = true
 
 [[files]]
