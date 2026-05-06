@@ -38,7 +38,7 @@ hash = "e22df34d455207833e40f2aff021120038c2b8daef68ceaa876eb555004d178b"
 
 [[files]]
 file = "config/reliable_recipes/remove_variants.json"
-hash = "d4055122ce0f98de944d8b43a00202c6902389169def66fdfecf92a96396e854"
+hash = "f1513d8bd1aca3769f7e4c4a96e1c8475979866df9ee5ab6e201a173e280cf44"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"

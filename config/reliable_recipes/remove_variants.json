@@ -30,7 +30,14 @@
       "create:clutch", "create_connected:inverted_clutch",
       "create:gearshift", "create_connected:inverted_gearshift",
       "create:fluid_tank", "create_connected:fluid_vessel",
-      "create:item_vault", "create_connected:item_silo"
+      "create_connected:item_silo"
+    ]
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "create_connected" ],
+    "output": [ 
+      "create:item_vault"
     ]
   },
   {
