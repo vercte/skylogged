@@ -1,0 +1,13 @@
+name = "fishbaiter"
+filename = "fishbaiter-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i6Nnpv6Z/versions/EuIX51as/fishbaiter-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "20792ec8ece044feacc30f83b36ae456d132a014817acf5fb35ebc5aa7df0d2d90b5fc9cc5242a36f680aa4f520dc22cc2ec3dc19f4876a3cabde932c7c97568"
+
+[update]
+[update.modrinth]
+mod-id = "i6Nnpv6Z"
+version = "EuIX51as"

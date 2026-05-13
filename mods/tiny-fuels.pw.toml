@@ -1,0 +1,13 @@
+name = "Tiny Fuels"
+filename = "tinyfuel-1.0.1-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9PRxrx7r/versions/TgtAXYUj/tinyfuel-1.0.1-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "5e1f7b09518cdb55f3fd09a1be49a8fbf0bffca9bf6b6b998168710478254eae376b539ae8d76c39f5d0e3069e3f562ac10df7527a82d80e9758450410d6d74d"
+
+[update]
+[update.modrinth]
+mod-id = "9PRxrx7r"
+version = "TgtAXYUj"

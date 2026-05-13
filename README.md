@@ -42,6 +42,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Exposure](https://modrinth.com/mod/exposure)
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
     - [Brewin' and Chewin'](https://modrinth.com/mod/brewin-and-chewin)
+- [Fishbaiter](https://modrinth.com/mod/fishbaiter)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6)
     - [No Man's Delight](https://modrinth.com/mod/no-mans-delight)
@@ -49,6 +50,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Satchels](https://modrinth.com/mod/satchels)
 - [Slag n' Embers](https://modrinth.com/mod/56bnCCwq)
 - [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
+- [Tiny Fuels](https://modrinth.com/mod/tiny-fuels)
 - [WATERFrAMES](https://modrinth.com/mod/waterframes/)
     - [WATERMeDIA](https://modrinth.com/mod/watermedia) 🖥️🚼
     - [WATERViSION](https://modrinth.com/mod/watervision) 🚼
@@ -91,7 +93,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [AsyncParticles](https://modrinth.com/mod/asyncparticles) 🖥️
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-neoforge) ☁️
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
-- [Ferritecore](https://modrinth.com/mod/ferritecore) 🖥️
+- [FerriteCore](https://modrinth.com/mod/ferritecore)
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) ☁️
 - [Noisium](https://modrinth.com/mod/hasdd01q) ☁️
 - [ServerCore](https://modrinth.com/mod/servercore) ☁️

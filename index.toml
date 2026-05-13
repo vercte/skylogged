@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "5fa882b4526cc1199d04289169b705edcfb8c3eaa91420dcd21752825864a357"
+hash = "1e8f63515d222d46b5c9b1ae4d45007a5bdb2402e985c5dd1d8f5784b4102396"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -405,12 +405,40 @@ file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/yellow_lupine.json
 hash = "985a9d58970d6941b3a805605b3e548a8c8cc581f6c870e3b193b6fe2ba4b62d"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/sable/tags/entity_type/retain_in_sub_level.json"
-hash = "bbd400f1ce1c14dda13652bf75ca5dbbd1cef5c4f48c79108c180d35d0e29152"
+file = "datapacks/misc_tweaks/data/supplementaries/tags/entity_type/cage_catchable.json"
+hash = "36d6eaabb03f87750c438f9f2db86d22070e60f67696a7b5674897aad2a979bb"
 
 [[files]]
 file = "datapacks/misc_tweaks/pack.mcmeta"
 hash = "aba5d929b3f9d930ea9a7a2ea2a8dd5158edfebe60e36ca54bd376d0cff6508c"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable/tags/block/half_volume.json"
+hash = "f5ccea5e7a2de182280f650d8b311df6b1403d2aa0f88f60fe5d516c9635f92d"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable/tags/block/light.json"
+hash = "f5ccea5e7a2de182280f650d8b311df6b1403d2aa0f88f60fe5d516c9635f92d"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable/tags/block/quarter_volume.json"
+hash = "6008536f11ff5dc06d204b5f154d721f7df2f56cd89ecf6a9deef054bc5b8014"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable/tags/block/super_light.json"
+hash = "6d45ede7d07dc47a0c192133f460f4de27f722851372b9ecc58ed77372ad7f86"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable/tags/entity_type/retain_in_sub_level.json"
+hash = "bbd400f1ce1c14dda13652bf75ca5dbbd1cef5c4f48c79108c180d35d0e29152"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/coaster.json"
+hash = "20dfd25497d96d9913932388ac60227165a668c7145691c7ad22df57d11a44c6"
+
+[[files]]
+file = "datapacks/sable_tweaks/pack.mcmeta"
+hash = "89cafb0d41f3b9aaae48c1607f71d341ae352702ffda9bac4461e48304d9ec61"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -658,6 +686,11 @@ hash = "19c09828ce6d394ec1d9906b1a6ff02998052274024182e83027c6e8eee9eb04"
 metafile = true
 
 [[files]]
+file = "mods/fishbaiter.pw.toml"
+hash = "cece0c46e5ed97495be977bf14849ac899d036c0eb3656dc5dfcfb5e58e65a41"
+metafile = true
+
+[[files]]
 file = "mods/gears-n-kinetics.pw.toml"
 hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
 metafile = true
@@ -675,6 +708,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
@@ -840,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "ec7a83525d0e5e848acd1dbac0b24526cbc89604bbc44b29d09910dfd5f87ab2"
+metafile = true
+
+[[files]]
+file = "mods/tiny-fuels.pw.toml"
+hash = "72b9735b0289f0117bad5b5595089e3646719c7e94f8b1c0a093b3499be6b429"
 metafile = true
 
 [[files]]
