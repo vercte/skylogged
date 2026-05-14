@@ -14,4 +14,4 @@ version = "kKk6Yka7"
 
 [option]
 optional = true
-description = "Incompatible with Particle Rain. Disable that if you want to use this. Optimizes particles."
+description = "Optimizes particles, but can be unstable at times."
