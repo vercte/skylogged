@@ -1,0 +1,8 @@
+{
+    "selector": "#sable_tweaks:crop_bales",
+    "priority": 2000,
+    "properties": {
+        "sable:mass": 2,
+        "sable:volume": 0.5
+    }
+}

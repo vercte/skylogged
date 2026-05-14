@@ -1,6 +1,5 @@
 {
     "selector": "brewinandchewin:coaster",
-
     "properties": {
         "sable:mass": 0.035,
         "sable:volume": 0.035

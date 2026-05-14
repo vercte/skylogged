@@ -1,7 +1,13 @@
 {
     "replace": false,
     "values": [
-        "#clutternomore:steps",
-        "#clutternomore:wooden_vertical_slabs"
+        "#clutternomore:wooden_vertical_slabs",
+        "minecraft:pale_moss_carpet",
+        "creategarnished:sniffer_fluff_carpet",
+
+        "copycats:copycat_vertical_step",
+        "copycats:copycat_door",
+        "copycats:copycat_iron_door",
+        "copycats:copycat_flat_pane"
     ]
 }

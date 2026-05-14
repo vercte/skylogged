@@ -76,6 +76,20 @@
         "target": "minecraft:warped_slab",
         "replacement": "minecraft:warped_planks"
     },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:end_stone_brick_slab",
+        "replacement": "minecraft:end_stone_bricks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:blackstone_slab",
+        "replacement": "minecraft:blackstone"
+    },
 
 
     {
