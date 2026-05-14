@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/tasks.json"
-hash = "912c6db23f8adc113caeb6f8058a40c89d0766d35e3c3a7f1dd0a87565a5057e"
-
-[[files]]
-file = "README.md"
-hash = "1e8f63515d222d46b5c9b1ae4d45007a5bdb2402e985c5dd1d8f5784b4102396"
-
-[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "16eb2dc098fab4a2b7192cb87522640bdd87d39a97ad13ac081aca206f2706b2"
 
@@ -46,7 +38,7 @@ hash = "e22df34d455207833e40f2aff021120038c2b8daef68ceaa876eb555004d178b"
 
 [[files]]
 file = "config/reliable_recipes/remove_variants.json"
-hash = "f1513d8bd1aca3769f7e4c4a96e1c8475979866df9ee5ab6e201a173e280cf44"
+hash = "391e9d0a679e6058c5f9e0d61071f3ca9cede2d9b1be88f5797f01137cb0f2b2"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"
@@ -54,7 +46,7 @@ hash = "0fe69d573cc55873a7c054d0bfc48944cb4abc66acc383f48658dc34c7186cd2"
 
 [[files]]
 file = "config/reliable_remover/remove.json"
-hash = "c00f7ef98a3e8631ad58032216bc474fb434e9f8592c38102eeafa69ce39b266"
+hash = "b864307bc7d89f63a30a7a21870a961ed7f0672eb23d95b47c3c6386b5766801"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -73,10 +65,6 @@ file = "config/yosbr/config/raised.json"
 hash = "a0763222f0231917ec7edc5873228fdf8e8983b7ffa8503c0fcadf84b3352119"
 
 [[files]]
-file = "copy.sh"
-hash = "820ce4081845550feec065f50192ee05eb2e5bb0b2a6bec2a31abd3f370376be"
-
-[[files]]
 file = "datapacks/misc_tweaks/data/c/tags/item/foods/vegetable.json"
 hash = "c66b66511aff9ea90ecc0c8142f3c535245127dcaf2800c0ef50afd5e5dfaec1"
 
@@ -90,7 +78,7 @@ hash = "482a602a1ab1469ed6b9710b0e13a2745e44082c5b2e3cb5d81dd172ad2dddc4"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/minecraft/shape_map/add_shapes.json"
-hash = "922f046bda92fda2071b64dcd75ef6b3c877d260769c383a9f60dd4f31ff0439"
+hash = "e5667b535ea2b7a1aef1bef5899869cfc1d8a25778eea1973c3bd18af86787bb"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/compacting/netherrack_from_scoria.json"
