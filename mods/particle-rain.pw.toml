@@ -14,5 +14,5 @@ version = "CJeVXIae"
 
 [option]
 optional = true
-description = "Incompatible with Async Particles. Disable that if you want to use this. Makes rain prettier and has some extra weather effects."
+description = "Makes rain prettier and has some extra weather effects."
 default = true

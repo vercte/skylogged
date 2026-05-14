@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "02064249f0c9bd3734d137add5d4567cfddf2c64cd945b19d3ec6ded71a01ca0"
+hash = "bd074aa1941f1d767880889c70a6529e2fa74309e2ebc85da1b1c8b2adb1e2d6"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "4cd34e5a5ccda32e25fd5f1cc91cb6383b198718846cd3c92541e8a6915eb750"
+hash = "ba2eb9c319df0b94be4daa358f9269828d79c6c3428fe794ac31d547ce01df1d"
 metafile = true
 
 [[files]]
