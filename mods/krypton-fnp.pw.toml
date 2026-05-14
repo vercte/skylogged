@@ -11,3 +11,8 @@ hash = "72892ac3bee596d30ee5e5d64d78c3da237c3e30c913c58cfadc3fad555c0140e4d04db5
 [update.modrinth]
 mod-id = "JkxWVYwU"
 version = "SUeOFygw"
+
+[option]
+optional = true
+default = true
+description = "Optimizes network stack—incompatible with e4mc."
