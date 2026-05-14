@@ -19,5 +19,9 @@
   {
     "action": "remove",
     "patterns": "/railways:.*(tfc|blue_skies|twilightforest|biomesoplenty|create_dd|quark|hexcasting).*/"
+  },
+  {
+    "action": "remove",
+    "patterns": "/dndecor:cast_iron_.*_bolt/"
   }
 ]

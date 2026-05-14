@@ -56,6 +56,11 @@
   },
   {
     "action": "remove_recipe",
+    "mod": "dndecor",
+    "id": "/dndecor:.*(cross|dash|dot)_bolt_from_.*_stonecutting/"
+  },
+  {
+    "action": "remove_recipe",
     "mod": "gnkinetics",
     "output": "/gnkinetics:(shaftless|hollow).*/"
   },
@@ -73,5 +78,10 @@
     "action": "remove_recipe",
     "mod": "powergrid",
     "input": "/powergrid:.*_gauge/"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": "simulated",
+    "id": "/simulated:auger_(shaft|cog)_from_auger_(shaft|cogwheel)/"
   }
 ]
