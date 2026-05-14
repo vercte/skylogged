@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/tasks.json"
+hash = "912c6db23f8adc113caeb6f8058a40c89d0766d35e3c3a7f1dd0a87565a5057e"
+
+[[files]]
 file = "README.md"
 hash = "1e8f63515d222d46b5c9b1ae4d45007a5bdb2402e985c5dd1d8f5784b4102396"
 
@@ -63,6 +67,10 @@ hash = "1558c215c8b1281b809ac75422d767e797a49c867f0e94332a3e1cbcc6e08668"
 [[files]]
 file = "config/yosbr/config/raised.json"
 hash = "a0763222f0231917ec7edc5873228fdf8e8983b7ffa8503c0fcadf84b3352119"
+
+[[files]]
+file = "copy.sh"
+hash = "14121588a38d06bd4890645bac5b2dfc1e6bf25488b50cb3cd471cf3f6041649"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/c/tags/item/foods/vegetable.json"

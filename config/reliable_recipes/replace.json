@@ -1,6 +1,85 @@
 [
     {
         "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:oak_slab",
+        "replacement": "minecraft:oak_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:spruce_slab",
+        "replacement": "minecraft:spruce_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:birch_slab",
+        "replacement": "minecraft:birch_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:jungle_slab",
+        "replacement": "minecraft:jungle_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:acacia_slab",
+        "replacement": "minecraft:acacia_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:dark_oak_slab",
+        "replacement": "minecraft:dark_oak_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:mangrove_slab",
+        "replacement": "minecraft:mangrove_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:cherry_slab",
+        "replacement": "minecraft:cherry_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:bamboo_slab",
+        "replacement": "minecraft:bamboo_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:crimson_slab",
+        "replacement": "minecraft:crimson_planks"
+    },
+    {
+        "action": "replace_input",
+        "type": "create:sequenced_assembly",
+        "mod": "railways",
+        "target": "minecraft:warped_slab",
+        "replacement": "minecraft:warped_planks"
+    },
+
+
+    {
+        "action": "replace_input",
         "target": "#minecraft:wooden_slabs",
         "replacement": "#minecraft:planks"
     },
