@@ -37,6 +37,10 @@ file = "config/paxi-neoforge-1_21.toml"
 hash = "a4187daa91d863f90dacfcb443e2f062fe3ddbaace98cfdcfa8b3cc558f1f250"
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "0e102e952b958f5aa65078f33f6f9dc2f5b578a3b047b4bcb8938943e45cffc3"
+
+[[files]]
 file = "config/reliable_recipes/remove.json"
 hash = "e22df34d455207833e40f2aff021120038c2b8daef68ceaa876eb555004d178b"
 
@@ -46,7 +50,7 @@ hash = "f1513d8bd1aca3769f7e4c4a96e1c8475979866df9ee5ab6e201a173e280cf44"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"
-hash = "9d5c30b38d822fae579a278aae28859ff30444560b5fad890a2a0a2693ee08a8"
+hash = "0fe69d573cc55873a7c054d0bfc48944cb4abc66acc383f48658dc34c7186cd2"
 
 [[files]]
 file = "config/reliable_remover/remove.json"
@@ -70,7 +74,7 @@ hash = "a0763222f0231917ec7edc5873228fdf8e8983b7ffa8503c0fcadf84b3352119"
 
 [[files]]
 file = "copy.sh"
-hash = "14121588a38d06bd4890645bac5b2dfc1e6bf25488b50cb3cd471cf3f6041649"
+hash = "820ce4081845550feec065f50192ee05eb2e5bb0b2a6bec2a31abd3f370376be"
 
 [[files]]
 file = "datapacks/misc_tweaks/data/c/tags/item/foods/vegetable.json"
@@ -422,19 +426,15 @@ hash = "aba5d929b3f9d930ea9a7a2ea2a8dd5158edfebe60e36ca54bd376d0cff6508c"
 
 [[files]]
 file = "datapacks/sable_tweaks/data/sable/tags/block/half_volume.json"
-hash = "f5ccea5e7a2de182280f650d8b311df6b1403d2aa0f88f60fe5d516c9635f92d"
+hash = "f9ad5e234f6d8079492617deeb3d2770c9a24aed0a72c00856a1903e14da5d6b"
 
 [[files]]
 file = "datapacks/sable_tweaks/data/sable/tags/block/light.json"
-hash = "f5ccea5e7a2de182280f650d8b311df6b1403d2aa0f88f60fe5d516c9635f92d"
-
-[[files]]
-file = "datapacks/sable_tweaks/data/sable/tags/block/quarter_volume.json"
-hash = "6008536f11ff5dc06d204b5f154d721f7df2f56cd89ecf6a9deef054bc5b8014"
+hash = "f5779fb5ffbabbbb62dffbcb25a7adc6cf3e3ab24a374459c2520499c393b21b"
 
 [[files]]
 file = "datapacks/sable_tweaks/data/sable/tags/block/super_light.json"
-hash = "6d45ede7d07dc47a0c192133f460f4de27f722851372b9ecc58ed77372ad7f86"
+hash = "931bc9281e0ed7a980a6f1127e7b81b238cc95af64f0c40d87b4fcf42ac632b3"
 
 [[files]]
 file = "datapacks/sable_tweaks/data/sable/tags/entity_type/retain_in_sub_level.json"
@@ -442,7 +442,39 @@ hash = "bbd400f1ce1c14dda13652bf75ca5dbbd1cef5c4f48c79108c180d35d0e29152"
 
 [[files]]
 file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/coaster.json"
-hash = "c2a42947fde8323e78633ef743c78efb08228e10f2512cfe6c532fe99877dbef"
+hash = "19abade7e01ab1257fdf99731e8e0aa3bc5b4b68fa04cb05827f824eb31b6b3c"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/copycat_board.json"
+hash = "8b1c7fc03913f8ed65fb52da3ce2ce1a5d121b51f599812c09e22dd364691e99"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/copycat_incrementals.json"
+hash = "b647056898a8dafebab09be2975d33bbe77f5b5d931562f65a610aedf94b596f"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/crop_bales.json"
+hash = "0911a70bd8feb40ee362f71301b87ccbbbca99d2be383d79365c94e016b59ae8"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/half_panel.json"
+hash = "6aae32f407a60c745bee71a9a6cf38e754ed38aae3a012e8ee3db70d0c5db7fa"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/steps.json"
+hash = "5993bc493ed73d76539a89192b5fb426ae4a52b9dc2f497589e0c58547c9726c"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/wooden_steps.json"
+hash = "5001cf369d8b1bb92b5f256e64f3b82aef6d1e9ebf1dd4e6ef71e78b2e3bb68a"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/tags/block/copycat_incrementals.json"
+hash = "4dd1bca5a7568799cfa04fdd29618bee227a13392a25e0ce94e1190437f2f026"
+
+[[files]]
+file = "datapacks/sable_tweaks/data/sable_tweaks/tags/block/crop_bales.json"
+hash = "9c0fdc2d1582014e2166c14adae28a1e389133c376303d287b49d721a954950c"
 
 [[files]]
 file = "datapacks/sable_tweaks/pack.mcmeta"
@@ -969,33 +1001,33 @@ hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Small Tweaks/assets/bridgingmod/textures/gui/sprites/indicator/down.png"
+file = "resourcepacks/Crosshair Tweaks/assets/bridgingmod/textures/gui/sprites/indicator/down.png"
 hash = "7367d003bdb37a1d0308a17eac08680c3637c62defe4aff1dc7773308dcb2cae"
 
 [[files]]
-file = "resourcepacks/Small Tweaks/assets/bridgingmod/textures/gui/sprites/indicator/horizontal.png"
+file = "resourcepacks/Crosshair Tweaks/assets/bridgingmod/textures/gui/sprites/indicator/horizontal.png"
 hash = "e4f80fc8875dfa2024ef3120a97567a634004d157f5fd22a12bab11739ced525"
 
 [[files]]
-file = "resourcepacks/Small Tweaks/assets/bridgingmod/textures/gui/sprites/indicator/up.png"
+file = "resourcepacks/Crosshair Tweaks/assets/bridgingmod/textures/gui/sprites/indicator/up.png"
 hash = "58ce20923a8afee26563b9179a288be36f6fc609054da1404b0d584596139e7f"
 
 [[files]]
-file = "resourcepacks/Small Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
+file = "resourcepacks/Crosshair Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair.png"
 hash = "17ee2308268d5921673633fff9093000e279ea4c73103c2fc70742840aec0048"
 
 [[files]]
-file = "resourcepacks/Small Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_background.png"
+file = "resourcepacks/Crosshair Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_background.png"
 hash = "bb901c6199ae2dca4b4a86b8fed54169eb923f6d8385b786b6bdf0ec91d153c1"
 
 [[files]]
-file = "resourcepacks/Small Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_full.png"
+file = "resourcepacks/Crosshair Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_full.png"
 hash = "93e5f361c6c2bf126adc4f887348f50fc649cfa365a601d536d5bb4b0b7fce98"
 
 [[files]]
-file = "resourcepacks/Small Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_progress.png"
+file = "resourcepacks/Crosshair Tweaks/assets/minecraft/textures/gui/sprites/hud/crosshair_attack_indicator_progress.png"
 hash = "bcd8da2aec7a590b1d9d1b078ac799d8b65eebab52af9e95dd220a883b224b77"
 
 [[files]]
-file = "resourcepacks/Small Tweaks/pack.mcmeta"
+file = "resourcepacks/Crosshair Tweaks/pack.mcmeta"
 hash = "69fabf1634f5f900b06f11ca4467f11db8d02b61609623443ff6cc1f61c0f007"

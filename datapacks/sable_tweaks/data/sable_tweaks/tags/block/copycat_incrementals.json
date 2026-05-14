@@ -1,0 +1,11 @@
+{
+    "values": [
+        "copycats:copycat_slice",
+        "copycats:copycat_vertical_slice",
+        "copycats:copycat_corner_slice",
+        "copycats:copycat_layer",
+        "copycats:copycat_half_layer",
+        "copycats:copycat_vertical_half_layer",
+        "copycats:copycat_stacked_half_layer"
+    ]
+}
