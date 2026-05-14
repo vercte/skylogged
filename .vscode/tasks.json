@@ -4,9 +4,13 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "rclone to dev modpack",
+            "label": "send to dev modpack",
             "type": "shell",
-            "command": "rclone sync --interactive "
+            "command": "./copy.sh",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }

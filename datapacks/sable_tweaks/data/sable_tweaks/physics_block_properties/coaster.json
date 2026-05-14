@@ -1,5 +1,5 @@
 {
-    "selector": "examplemod:example_block",
+    "selector": "brewinandchewin:coaster",
 
     "properties": {
         "sable:mass": 0.035,
