@@ -48,5 +48,15 @@
     "action": "remove_recipe",
     "mod": "gnkinetics",
     "output": [ "gnkinetics:tiny_cogwheel", "gnkinetics:tiny_brass_gear" ]
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "minecraft", "create" ],
+    "output": "minecraft:chain"
+  },
+  {
+    "action": "remove_recipe",
+    "mod": [ "copycats" ],
+    "output": "copycats:copycat_block"
   }
 ]

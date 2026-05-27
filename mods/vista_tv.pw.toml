@@ -1,6 +1,7 @@
 name = "vista"
 filename = "vista-1.21-3.1.2-neoforge.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/zuARv1N7/versions/CxgHhorV/vista-1.21-3.1.2-neoforge.jar"

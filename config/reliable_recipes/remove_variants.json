@@ -67,7 +67,10 @@
   {
     "action": "remove_recipe",
     "mod": "gnkinetics",
-    "input": "/gnkinetics:(shaftless|hollow).*/"
+    "input": "/gnkinetics:(shaftless|hollow).*/",
+    "not": {
+      "output": "/gnkinetics:.*magnet_gear/"
+    }
   },
   {
     "action": "remove_recipe",

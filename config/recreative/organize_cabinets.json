@@ -1,0 +1,19 @@
+[
+    {
+        "action": "modify_tab",
+        "tabs": ["minecraft:building_blocks"],
+        "remove_items": [
+            "#farmersdelight:cabinets"
+        ]
+    },
+    {
+        "action": "modify_tab",
+        "tabs": ["minecraft:functional_blocks"],
+        "add_items": [
+            {
+                "item": "#farmersdelight:cabinets",
+                "after": "supplementaries:safe"
+            }
+        ]
+    }
+]

@@ -1,16 +1,16 @@
 name = "skylogged"
 author = "Vercte"
-version = "3.2.1"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f76539bb5a0fe6ef9cca2e7068677492311e1d7524e5dcf47e8d4697905b57d"
+hash = "46a1305f02de9769217fd77a6ae7618ace393c8830599961efd2a1a6c12f391a"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.225"
+neoforge = "21.1.231"
 
 [options]
 acceptable-game-versions = ["1.21"]

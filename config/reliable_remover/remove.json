@@ -23,5 +23,9 @@
   {
     "action": "remove",
     "patterns": "/dndecor:cast_iron_.*_bolt/"
+  },
+  {
+    "action": "remove",
+    "items": [ "spawn:dried_hamster", "decorative_blocks:chain", "vista:picture_tape" ]
   }
 ]

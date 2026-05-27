@@ -1,0 +1,6 @@
+[
+    {
+        "inputs": [ "spawn:dried_hamster" ],
+        "outputs": "minecraft:air"
+    }
+]

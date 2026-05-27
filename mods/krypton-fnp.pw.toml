@@ -15,4 +15,4 @@ version = "SUeOFygw"
 [option]
 optional = true
 default = true
-description = "Optimizes network stack—incompatible with e4mc."
+description = "Optimizes the game's networking stack. Incompatible with e4mc."

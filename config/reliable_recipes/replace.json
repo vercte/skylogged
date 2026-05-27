@@ -99,12 +99,24 @@
     },
     {
         "action": "replace_input",
-        "target": "smooth_stone_slab",
+        "target": "minecraft:smooth_stone_slab",
         "replacement": "smooth_stone"
     },
     {
         "action": "replace_input",
-        "target": "stone_slab",
+        "target": "minecraft:stone_slab",
         "replacement": "stone"
+    },
+    {
+        "action": "replace_input",
+        "mod": "reliable_gliders",
+        "target": "minecraft:leather",
+        "replacement": "farmersdelight:canvas"
+    },
+    {
+        "action": "replace_input",
+        "mod": "farmersdelight",
+        "target": "minecraft:egg",
+        "replacement": "#c:eggs"
     }
 ]

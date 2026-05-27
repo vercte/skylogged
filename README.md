@@ -45,10 +45,10 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Fishbaiter](https://modrinth.com/mod/fishbaiter)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6)
-    - [No Man's Delight](https://modrinth.com/mod/no-mans-delight)
-- [Patchouli](https://modrinth.com/mod/nU0bVIaL)
+- [Reliable Gliders](https://modrinth.com/mod/reliable-gliders)
 - [Satchels](https://modrinth.com/mod/satchels)
 - [Slag n' Embers](https://modrinth.com/mod/56bnCCwq)
+- [Spawn](https://modrinth.com/spawn-mod)
 - [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
 - [Tiny Fuels](https://modrinth.com/mod/tiny-fuels)
 - [WATERFrAMES](https://modrinth.com/mod/waterframes/)
@@ -107,7 +107,10 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Discord Integration](https://modrinth.com/mod/dcintegration)
 - [End Locker](https://github.com/vercte/endlock)
 - [Paxi](https://modrinth.com/mod/CU0PAyzb)
+- [Recreative](https://modrinth.com/mod/recreative)
+- [Reliable Recipes](https://modrinth.com/mod/reliable-recipes)
 - [Reliable Remover](https://modrinth.com/mod/reliable-remover)
+- [Reliable Replacer](https://modrinth.com/mod/reliable-replacer)
 - [Spark](https://modrinth.com/mod/spark)
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) 🖥️
 - [Your Options Shall Be Respected (NeoForge)](https://modrinth.com/mod/1Q1Lbl0G) 🖥️☁️
@@ -122,6 +125,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Sable](https://modrinth.com/mod/sable)
 - [M.R.U](https://modrinth.com/mod/SNVQ2c0g)
 - [Moonlight Lib](https://modrinth.com/mod/twkfQtEc)
+- [Patchouli](https://modrinth.com/mod/nU0bVIaL)
 - [Platform](https://modrinth.com/mod/i6fiqm5y)
 - [Ritchie's Projectile Library](https://modrinth.com/mod/B3pb093D)
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) 🖥️

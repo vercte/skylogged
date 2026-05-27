@@ -33,20 +33,28 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "0e102e952b958f5aa65078f33f6f9dc2f5b578a3b047b4bcb8938943e45cffc3"
 
 [[files]]
+file = "config/recreative/organize_cabinets.json"
+hash = "fdc28ad530da79817e394b7bf5a4818a6dfc075de38fb08d2db678cb891817e9"
+
+[[files]]
 file = "config/reliable_recipes/remove.json"
-hash = "e22df34d455207833e40f2aff021120038c2b8daef68ceaa876eb555004d178b"
+hash = "1585d56b2da4d84b791428685b05c83745ee4d3feb9bfffb8cc3f608b631e127"
 
 [[files]]
 file = "config/reliable_recipes/remove_variants.json"
-hash = "391e9d0a679e6058c5f9e0d61071f3ca9cede2d9b1be88f5797f01137cb0f2b2"
+hash = "2a558b57bf386ceec59b790b26885019f5377816848ec0fa9c944a0369a7257d"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"
-hash = "0fe69d573cc55873a7c054d0bfc48944cb4abc66acc383f48658dc34c7186cd2"
+hash = "00b009a04ae2c73c23f49e42021ad19086836244460311f9eebb2144cf30037a"
 
 [[files]]
 file = "config/reliable_remover/remove.json"
-hash = "b864307bc7d89f63a30a7a21870a961ed7f0672eb23d95b47c3c6386b5766801"
+hash = "977bb38cec1d5141f16b5c92e0711dc6463fa3d111c424c6a6e4f1cc65f49a87"
+
+[[files]]
+file = "config/reliable_replacer/replace.json"
+hash = "7db1333411266f64b8c88aefae9ea092d12a8791dd93c1ce070e24cc1b451a3b"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -65,352 +73,356 @@ file = "config/yosbr/config/raised.json"
 hash = "a0763222f0231917ec7edc5873228fdf8e8983b7ffa8503c0fcadf84b3352119"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/c/tags/item/foods/vegetable.json"
+file = "datapacks/recipe_tweaks/data/c/tags/item/foods/vegetable.json"
 hash = "c66b66511aff9ea90ecc0c8142f3c535245127dcaf2800c0ef50afd5e5dfaec1"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/c/tags/item/pine_nuts.json"
+file = "datapacks/recipe_tweaks/data/c/tags/item/pine_nuts.json"
 hash = "8edba77eb17077dc7a68421876348acd4802af23ed386273007acb26d77ab609"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/create/tags/item/pulpifiable.json"
+file = "datapacks/recipe_tweaks/data/create/tags/item/pulpifiable.json"
 hash = "482a602a1ab1469ed6b9710b0e13a2745e44082c5b2e3cb5d81dd172ad2dddc4"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/minecraft/shape_map/add_shapes.json"
+file = "datapacks/recipe_tweaks/data/minecraft/shape_map/add_shapes.json"
 hash = "e5667b535ea2b7a1aef1bef5899869cfc1d8a25778eea1973c3bd18af86787bb"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/compacting/netherrack_from_scoria.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/compacting/netherrack_from_scoria.json"
 hash = "511c6111cec627bea9f59ff61f95689c44b0a56c461009cc342a83c71e22af00"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/barrel.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/copycat_block_from_stonecutting.json"
+hash = "31ae75321e98354dac63df06efe883456bc3d82ad2225e6b7491ccb22de184da"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/barrel.json"
 hash = "6d0587200839cc9619364fdb74832393bf8526e3ca25b958c721bad9b6ba3ae2"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/acacia_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/acacia_cabinet.json"
 hash = "301ac6c1857623c55d3d70cc446349c3d7e89d762fdee1bc51ddff88063e75cf"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/bamboo_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/bamboo_cabinet.json"
 hash = "97c6e2811935383cd42a83e06b7a75ef45eaef1345189228f367ec69155b8973"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/birch_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/birch_cabinet.json"
 hash = "d2dd376f2b048454745259c2ac051b02965b45d501f4c95bbb19d62b855e121f"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/cherry_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/cherry_cabinet.json"
 hash = "04d07c38f82082ef9fbec985f0e416bfd8bd7f1e84d7427b85d3f81d8be569b1"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/crimson_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/crimson_cabinet.json"
 hash = "2c7cd512114deeb1460f84a0eae086f3f7c34a867a38675a714faa86c598b3be"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/dark_oak_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/dark_oak_cabinet.json"
 hash = "2091b61c8b297c4e617b17db57cf4af9cfc6a1f22a64419df1c0d228960f23c7"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/jungle_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/jungle_cabinet.json"
 hash = "9f0160aed4194277f7fac4341e4dbf3b32fc6a29c83aaf841d99d398142011bb"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/mangrove_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/mangrove_cabinet.json"
 hash = "45a52e857d6960a90246cc6d8e039c92f757393fcd7b14e7ddbd433c6932c0c6"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/maple_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/maple_cabinet.json"
 hash = "20347a1ea37f5df2dde3b75eed1286f4b16e90969c14591e7ca1ec9b087ff364"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/oak_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/oak_cabinet.json"
 hash = "f380782dc6e408e0af30f6e74e8f5cfcb9312f4cee745d486c3809b12e39ec18"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/pale_oak_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/pale_oak_cabinet.json"
 hash = "6a41ed5b27cb14aa70390b87844b84aad780b7f70531f49dc5193200766e56e6"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/pine_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/pine_cabinet.json"
 hash = "c783209f8a656d15880fde4346fe1d3716d51345cb998b3833861b89fe40c660"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/spruce_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/spruce_cabinet.json"
 hash = "5048041f256c868791d48f119718f821d95b5eea7c7d93b8bae56303a38e92db"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/walnut_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/walnut_cabinet.json"
 hash = "2c30a6b53e36c65b118f22c9e06ab1f8c8b3c62f33918144b38eff0f8590b951"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/warped_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/warped_cabinet.json"
 hash = "9ce92d32ba5b9b594dddd11b7fb85ba931b53b161269b632982c86f155b58398"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cabinet/willow_cabinet.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/willow_cabinet.json"
 hash = "e57d8b95972bf88264936f77ec0b93aece053753bb0e39fda715ce7d098cc953"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_barrel_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_barrel_cast_mould.json"
 hash = "f154fdd87e4abec498a5f4f5c0db0993546c5135ff41981eb462646a95dc844e"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_breech_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_breech_cast_mould.json"
 hash = "2cdf615918b5577fd21e236ceefa8668e6fd590a8706e8f937b6b53ba39f9f58"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_recoil_spring_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_recoil_spring_cast_mould.json"
 hash = "a5b4ef04d3cd7229c223f39b8284c8eed180a592641e318ad3458bf704f4c4c5"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/cannon_end_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/cannon_end_cast_mould.json"
 hash = "06df8b411f6c17f961d25755be170194a9ef3ae9683d7d17695db34f502c9278"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/large_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/large_cast_mould.json"
 hash = "94d1bce7216de539f8c0373aea2802c82463ac8accf2618865a7174cb95c1914"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/medium_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/medium_cast_mould.json"
 hash = "41b08d4ea499450a6d72d6ca2aa4735ce12207647e1ecff144c762369b9b175b"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/screw_breech_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/screw_breech_cast_mould.json"
 hash = "bd55880d1ee3cd29052cad038cabf51bb7fdcc677488a3a6ad6028d484ebd177"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/sliding_breech_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/sliding_breech_cast_mould.json"
 hash = "8839ba3786b6ecff58908d0b14b631b7b9c44b7b1379c191b9bb446e2af7871a"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/small_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/small_cast_mould.json"
 hash = "d4bc7e9e77cf17b6068c8e39cd3e0c4dbcdf0953fdc2fdc691124f17633d1c29"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/very_large_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/very_large_cast_mould.json"
 hash = "9c3b6b1660f967631001b383de1b89fbbd0fc6e9352fafdd6c9a9a03ee5fbf4b"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/cannons/mould/very_small_cast_mould.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/very_small_cast_mould.json"
 hash = "666802353304643f58d6ae3388b01b1a5bdb0b5b2e50c541f75ace8f2e3a9439"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/chain.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/chain.json"
 hash = "d5ad9fa3ad459f7ef7564f0ee2cec9ff2b404b1253c58d69af40e1d0ca16304e"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/chain_from_zinc.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/chain_from_zinc.json"
 hash = "0f5fbbe7e36f42ddd6811ce24171d03ad04fafa4bfae20f125d0c4b6b9180a38"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/pedestal.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/pedestal.json"
 hash = "d23485cee12382460d894c926249736fde988428797ed6b3f8506278905735e0"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/acacia_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/acacia_trapdoor.json"
 hash = "167116dcccfcb2a2068eef61f4636aff2afcbb6067f05965630265d02f2a8915"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/bamboo_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/bamboo_trapdoor.json"
 hash = "502c27db57cef3046030f05ce9efe0378ddaa92db2d9c8848767273bf4d1557a"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/birch_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/birch_trapdoor.json"
 hash = "cc4cb4ff8a230b592329af5ecda411726d6fe5b4ceeb0b9da2404e2f2974d384"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/cherry_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/cherry_trapdoor.json"
 hash = "5a810baf8c967e53e498cebd887cfb463686637146c7780bcbea7b2091296d0a"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/crimson_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/crimson_trapdoor.json"
 hash = "0371af52b42bdd2b9d04ec56b71d34279fbd9465d49e9ff007d6a19a66f1b3e1"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/dark_oak_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/dark_oak_trapdoor.json"
 hash = "595af8ed676edb860a387e1ffe7d7a644a1b8f74d44b43d0eee45ae6bf65cefc"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/jungle_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/jungle_trapdoor.json"
 hash = "a05ca35e9d04ba88aa784819854919d6b31fb04d26448fd9ee7fde4ed9130bf9"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/mangrove_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/mangrove_trapdoor.json"
 hash = "963339bd5955630fe88129fbe32425787607c1a22753ee2b05de8860c4c8fe8f"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/maple_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/maple_trapdoor.json"
 hash = "43fa97e7ed629d44643b65d1a62b5386812f77130fdf55282dc5d74cf1cca04e"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/oak_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/oak_trapdoor.json"
 hash = "bff375e6a91c05fdd360b7480569dd6a4cba02c2b530b9a06db45fe48b845144"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/pale_oak_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/pale_oak_trapdoor.json"
 hash = "e296fcb7860874b5c2f26f92bc601cf69fd73f0ebde3eef049eba8a6052320ed"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/pine_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/pine_trapdoor.json"
 hash = "6b7ff9c061a144e8579cb35a83d46f91abd1cdd697c9cf4efbf523e98602406f"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/spruce_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/spruce_trapdoor.json"
 hash = "6cc501bfcbda35b3c781ea7ad7138ae1ddb5421edfeaf14d37862ee060025825"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/walnut_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/walnut_trapdoor.json"
 hash = "b45669f7d279c836d758a5aa6193c4febb308ab1c30999fd2f111a49634e19f3"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/warped_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/warped_trapdoor.json"
 hash = "ec343000301ee664a8d495f2eb2d5d9940a746e70e2da7519deba6cb195ff458"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/crafting/shaped/trapdoor/willow_trapdoor.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/willow_trapdoor.json"
 hash = "0df11dd374f5e2a3bf1c0a1b2e5c685f38441f08f40afba66d267822a12af2ab"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/acacia_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/acacia_planks.json"
 hash = "704d55b6c87ee0201f042aca13c1bb2ff64a1d8defe0587b26e3d113e6a45666"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/bamboo_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/bamboo_planks.json"
 hash = "7747e3fc6d3fd60ded0271474efaabc40d6afe152dba319db3cebf7e1421cb5a"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/birch_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/birch_planks.json"
 hash = "3d42af20c31d19ece3e73dc566567e59d95c11c41977aab395e9238cfd63214f"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/brass_gear.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/brass_gear.json"
 hash = "38cd9d7b5b0bd3f2869bcb6f3d80dbda1f4d485041273b9a40430d062bd2841a"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/cherry_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/cherry_planks.json"
 hash = "ed040303cbd35b5acc88a8c3c254cc164ae0c1833f0650b6efd36e9d4ce96021"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/cogwheel.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/cogwheel.json"
 hash = "e91a30fb9dd90dd227a8b5b811a8127157b41e684059205f5d96d7f3daa27116"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/crimson_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/crimson_planks.json"
 hash = "be832b8f56fcac12033cfdb24bb7fdd6b60e702bd2315f889cfd702fd0d98159"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/dark_oak_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/dark_oak_planks.json"
 hash = "b9cadb28de7b3f54f2407ef05edb19146d35393cebf1771642f1729ff25f4b8c"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/jungle_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/jungle_planks.json"
 hash = "cac952b31f65faa499c1e44fa98553fdd72d81044212d8f2a8686a1cc4457638"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/large_brass_gear.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/large_brass_gear.json"
 hash = "edd7b866f09104040b3b1be8f575745d039a04b85b39445d98bca8008a0ad804"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/large_cogwheel.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/large_cogwheel.json"
 hash = "afa2a86012aed7177d66ac7c5af572a4c9342131948466a11e05a04a4c63ac6d"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/mangrove_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/mangrove_planks.json"
 hash = "d628e74668718af3e445242e03f3e518a49281c69d9208d2e28b23912d114905"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/maple_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/maple_planks.json"
 hash = "11ec1879ad75091d50518afa41d005c5466548d33d26ddb20ca00590cad15b70"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/oak_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/oak_planks.json"
 hash = "fb67f2bb8349207e7f6a90a40428c7f55b5966320f239ec9b7f0eef87ac32f2c"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/pale_oak_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/pale_oak_planks.json"
 hash = "6a7c7d5b53eb2566b287127f7df076ee0e01bbe8b0e788fa97a459857d4f57a1"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/pine_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/pine_planks.json"
 hash = "e65ae92f9a6a5d1d545c472f9d65912042ffae86e57973a3a1c11396298138d1"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/spruce_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/spruce_planks.json"
 hash = "727f73da4da57f68b68e2ee513d2bced4ffe0f2a9c77bce5fd81cf69b8bd37a8"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/walnut_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/walnut_planks.json"
 hash = "ae18a28c5ed516c66cd6008f174f4fe95a5dd1e4c194528d3666d78c286f10b2"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/warped_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/warped_planks.json"
 hash = "10bdc5351c076a813905d15b0c5391d1b839d06c9560d466cd74778290424d45"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/cutting/willow_planks.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/cutting/willow_planks.json"
 hash = "f94d7b2bec8b2d4ddc9cd93c5bf2ccc4972226238e48a355502071a325609ec6"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/fried_egg.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/fried_egg.json"
 hash = "fca3f501121a86eb4e59905de187f51c6b3e5ad1e25fca3bed66ab82c85b1a83"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/fried_egg_from_campfire_cooking.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/fried_egg_from_campfire_cooking.json"
 hash = "7dd2634b23296383e3aaa9e0a0f1e9344f1cd93d71b5fefa6d7aedb48cf5089d"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/fried_egg_from_smoking.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/fried_egg_from_smoking.json"
 hash = "0a274c020ba6326c9784fb931fb3150233af77e7a79e9ae4bdd6297bcb2c4747"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/aconite.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/aconite.json"
 hash = "a68eb6d15d5ec0f96565f931a87a0bb9869593f924a66faaab450f1b506aad89"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/autumn_crocus.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/autumn_crocus.json"
 hash = "f6a8b3908b524334d9f9d1c1384068c0ae89bdb090df23f0380f94e6b7fff1ec"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/blue_lupine.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/blue_lupine.json"
 hash = "f8d1d183ec74faed56d4e12f84536508210d6ffdfd9826ebeb6cb53dbebed48c"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/pickleweed.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/pickleweed.json"
 hash = "98e39a84934260baa085ac9d1b12513efe83dce2ef3e69ded5f2928d61408c04"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/pink_lupine.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/pink_lupine.json"
 hash = "31aa44213de6c6a45874f1d030c0353cb57dd437e2f0db05afabafaf42086a28"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/red_lupine.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/red_lupine.json"
 hash = "e93570ce8bf0af7adfc5a3a600617a002a67efbeef9fe3488b6e47a04bec619c"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/starflower.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/starflower.json"
 hash = "71e92b7396cd3536e4ee9ed1375cdcbedc98caf256511a44256ae1684a1b9404"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/thistle.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/thistle.json"
 hash = "d4aff5c7392e72c1b81ebdb5266ea44c297d8a24870afd38e91172479a9f2164"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/wild_mint.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/wild_mint.json"
 hash = "ecc29761ad1c974ef47fc14df3ca246d2b132e13008851f0e6f12835cdb6d3e6"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/misc_tweaks/recipe/milling/yellow_lupine.json"
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/milling/yellow_lupine.json"
 hash = "985a9d58970d6941b3a805605b3e548a8c8cc581f6c870e3b193b6fe2ba4b62d"
 
 [[files]]
-file = "datapacks/misc_tweaks/data/supplementaries/tags/entity_type/cage_catchable.json"
+file = "datapacks/recipe_tweaks/data/supplementaries/tags/entity_type/cage_catchable.json"
 hash = "36d6eaabb03f87750c438f9f2db86d22070e60f67696a7b5674897aad2a979bb"
 
 [[files]]
-file = "datapacks/misc_tweaks/pack.mcmeta"
-hash = "aba5d929b3f9d930ea9a7a2ea2a8dd5158edfebe60e36ca54bd376d0cff6508c"
+file = "datapacks/recipe_tweaks/pack.mcmeta"
+hash = "54bdb3585c5846cc5d40fd7edeedd12038b0fd5d959e2f0a23f51aec6220ba25"
 
 [[files]]
 file = "datapacks/sable_tweaks/data/sable/tags/block/half_volume.json"
@@ -423,10 +435,6 @@ hash = "f5779fb5ffbabbbb62dffbcb25a7adc6cf3e3ab24a374459c2520499c393b21b"
 [[files]]
 file = "datapacks/sable_tweaks/data/sable/tags/block/super_light.json"
 hash = "931bc9281e0ed7a980a6f1127e7b81b238cc95af64f0c40d87b4fcf42ac632b3"
-
-[[files]]
-file = "datapacks/sable_tweaks/data/sable/tags/entity_type/retain_in_sub_level.json"
-hash = "bbd400f1ce1c14dda13652bf75ca5dbbd1cef5c4f48c79108c180d35d0e29152"
 
 [[files]]
 file = "datapacks/sable_tweaks/data/sable_tweaks/physics_block_properties/coaster.json"
@@ -469,6 +477,14 @@ file = "datapacks/sable_tweaks/pack.mcmeta"
 hash = "89cafb0d41f3b9aaae48c1607f71d341ae352702ffda9bac4461e48304d9ec61"
 
 [[files]]
+file = "datapacks/shape_tweaks/data/shape_tweaks/shape_map/add.json"
+hash = "0d013e8b442e731a66d8c4f0da0b3f4026fd905a38347fd35773a783aeda8fcc"
+
+[[files]]
+file = "datapacks/shape_tweaks/pack.mcmeta"
+hash = "df0d932f41211ab18c72c3388a60c7b9d6fc4474cf93856aae9a104cf0bbdfe8"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
@@ -505,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "bd074aa1941f1d767880889c70a6529e2fa74309e2ebc85da1b1c8b2adb1e2d6"
+hash = "e0e7c40ce76c27e9e9d3b916a6f8173adbcd8bdae22c4602fa874cca4d59509b"
 metafile = true
 
 [[files]]
@@ -530,12 +546,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "e1e6818397bee1cd75f05e22c9ed6ba8af4bd2a21f20f4b4b6fc773512aef24d"
+hash = "9bb8dcf147bcf9d9ceb0d7e3d94d5bf5613d97b2050748aad2ce9885fadb9a5a"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
+hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
 metafile = true
 
 [[files]]
@@ -549,9 +565,8 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "mods/clutter-no-more.pw.toml"
-hash = "7ef92fc03685a50c95eae980325811b18378a2e61686f025e592605799eab457"
-metafile = true
+file = "mods/clutternomore-2.0.0+1.21.1-neoforge.jar"
+hash = "c1080b2255ba152d590930a8c12149abf2272bedd23765c15c0934465cb5c0af"
 
 [[files]]
 file = "mods/cme-is-bad.pw.toml"
@@ -579,6 +594,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/crafting-mats.pw.toml"
+hash = "55d986d8d35b1ff5a42f0c3a0ff2b2c86f34a298442d2a7702cfb72187200ee5"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "ebc4237417524e557b8dfc39dd8dbe884c9b99ecae0ceaa234426c61fa9449e8"
 metafile = true
@@ -586,6 +606,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "d11bb3a4c43cdbe205c949bbb50977d12f3b22d129f738de7996b5722df3ac60"
 metafile = true
 
 [[files]]
@@ -600,12 +625,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "5a5568a484f0f8f3e21db7c5a68c6e306ae9e8bb507a10a3b0823af543e61348"
+hash = "c8b2e60b789885854508c674ba0630cdc8dc2a880302d8475cdc5ae06c44f64a"
 metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "a548a99f9d9ba0d237aaf64acee67b29271d05a40c1c3ef87bc1bc18267c640c"
+hash = "57e8ff6c2bf41c7556f727251fda72946ebd8d849e5e83c141a679387a559dbc"
 metafile = true
 
 [[files]]
@@ -620,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
+hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
 metafile = true
 
 [[files]]
@@ -635,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
 metafile = true
 
 [[files]]
@@ -645,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d6e8a17cd30032fb2eaeb910f65ffca9cd41a6530b607d58dfa18ac619b6d9f1"
+hash = "054c5a15bdaf0647066beddfb4a6b49e3222ab37c09b4d213af221b5cf3d5c39"
 metafile = true
 
 [[files]]
@@ -661,6 +686,11 @@ metafile = true
 [[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "a832de493f31251061455e1a473471d115ff875400ddeae78e35ae8c7868c3c1"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-reborn.pw.toml"
+hash = "5c33ee84c17b3653307605c63a541d0e164fe58ec45dfcfe8e215a3ecf0d6033"
 metafile = true
 
 [[files]]
@@ -695,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a6a1ff8fb716206a716378d045f6faee5fef180b291dff0fdaf446315d82e97a"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -740,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
-hash = "f319354f211c7288ba12fdbcc7a20a5ac3b6523333ba53564039a3bb5b04f92c"
+hash = "0c68fa88422ebc59a6eb9f10beec51c46a5d3e8d23e3682279cb6505b81950c0"
 metafile = true
 
 [[files]]
@@ -755,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
@@ -774,13 +804,8 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
-file = "mods/no-mans-delight.pw.toml"
-hash = "356f2a981bb0d96ad24019157c4401469c77d20788ae41435133e880e4b4b207"
-metafile = true
-
-[[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "2d51fa52a16d97c242e860e649cd4c5ed8ab00190c428974793425745c0d92c7"
+hash = "75d61a4c3493db5674ffaf4e422a5edc2b25261fd966ba23f2ad4ce5fba3acc2"
 metafile = true
 
 [[files]]
@@ -844,13 +869,28 @@ hash = "347566bc94821bfa6fef5a8225ba92aac74f64636ae1dc5ab8a321ee65a7b008"
 metafile = true
 
 [[files]]
+file = "mods/recreative.pw.toml"
+hash = "a99d48efd338485a99b8f706ece49b7463f0f615758cdff1e2183a19aff416f1"
+metafile = true
+
+[[files]]
+file = "mods/reliable-gliders.pw.toml"
+hash = "f68fb8927ad9a2ab5fb92197b34377bb44028d0e0bd985b0940ec59e0ecce9a4"
+metafile = true
+
+[[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "1a2515dc7f45a75d4e00200df87b6b2447bad2a56521bed786ad1e41f50a11bf"
+hash = "cd062a5fba9458805787d6da805e0f4dbcb10dc31edf3133955af43a310576d3"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "d8a42774dae48c9292ba05160dee6d2c320e115fb14fedf3222c522c61c38ddf"
+hash = "b787d4e4d0712ceceaee7cb3c3608f70ecc58b896cd3432e9bb34d505176c299"
+metafile = true
+
+[[files]]
+file = "mods/reliable-replacer.pw.toml"
+hash = "088b4db54168e69a4843cad9c85c5beb53c22a48f5fb7d5f420a4c8b77085dae"
 metafile = true
 
 [[files]]
@@ -865,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/satchels.pw.toml"
-hash = "2507cc72543e108a201da12041b851068a5e4dd9175007fc3d932d4e7056d56b"
+hash = "a326b4bfe37c6df86326818bb6e690872a0bbb2e5308c7a8ea5f9bf795f02d1d"
 metafile = true
 
 [[files]]
@@ -875,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
 metafile = true
 
 [[files]]
@@ -885,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/skylogged-core.pw.toml"
-hash = "e07866bd9d03a9ac2d5a9c99cc584c8e47977e4091822ef24068b11e8fbb25ee"
+hash = "9a0ea3385c3054de006f4b91bec6aa0294057a1a4f416ee4d97bb98701719795"
 metafile = true
 
 [[files]]
@@ -895,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "7a0545b3c17ba1e0856e271ab483f53a4376e8af76c1e36ba09b8805ca3a64b6"
 metafile = true
 
 [[files]]
@@ -909,8 +949,13 @@ hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
 metafile = true
 
 [[files]]
+file = "mods/spawn-mod.pw.toml"
+hash = "c4910628e777aaa2e863f8d5b45cfcadc24e5faff1459a739d5be03d2d9285cd"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
@@ -920,17 +965,17 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "5bc9781110b5b926aa0cd2d19ddc1aa2ed0cb9e5678e63ef730ade61abab06ab"
+hash = "b28cc434de3932e66c46ed31a8e28d5ea1e28ad1b77f0a9bfa863cfc71c51071"
 metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "05fe3823b0d3b91b9ecd6ce95409eb1a959054492f946aed85b2ae8f5a960e35"
+hash = "ef6ec054264f943b1391d230317264f146057b9e3b07e99f4c383c324831b190"
 metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
+hash = "a5ee081f42c41afb5bd86a6a03226ac801f9dab9fbc5a507adee454d1f0f5248"
 metafile = true
 
 [[files]]
