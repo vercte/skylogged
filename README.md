@@ -91,7 +91,6 @@ You may want to look at the premise of these mods—they can change gameplay qui
 ### Optimization
 - [AI Improvements](https://modrinth.com/mod/ai-improvements)
 - [AsyncParticles](https://modrinth.com/mod/asyncparticles) 🖥️
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-neoforge) ☁️
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) 🖥️
 - [FerriteCore](https://modrinth.com/mod/ferritecore)
 - [Krypton Reno](https://modrinth.com/mod/krypton-fnp)
