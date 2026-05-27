@@ -42,6 +42,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
 - [Exposure](https://modrinth.com/mod/exposure)
 - [Farmer's Delight](https://modrinth.com/mod/R2OftAxM)
     - [Brewin' and Chewin'](https://modrinth.com/mod/brewin-and-chewin)
+        - (with `bnc-fd-compat-patch-1_0_2` by MyraZaWitch on discord)
 - [Fishbaiter](https://modrinth.com/mod/fishbaiter)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
 - [No Man's Land](https://modrinth.com/mod/kjZCvAn6)

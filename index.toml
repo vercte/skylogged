@@ -535,6 +535,10 @@ hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
 
 [[files]]
+file = "mods/bnc-fd-compat-patch-1_0_2.jar"
+hash = "809021257d32cd9379513a7a4efd369404340fa52ff6955fddc9aa4b8041f352"
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
