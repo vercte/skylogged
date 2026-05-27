@@ -569,8 +569,9 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "mods/clutternomore-2.0.0+1.21.1-neoforge.jar"
-hash = "c1080b2255ba152d590930a8c12149abf2272bedd23765c15c0934465cb5c0af"
+file = "mods/clutter-no-more.pw.toml"
+hash = "8d880a5df6341ed828dc4dde0a85de0e761aed51a862e9148e6499972e06835d"
+metafile = true
 
 [[files]]
 file = "mods/cme-is-bad.pw.toml"

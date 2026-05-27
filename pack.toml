@@ -1,12 +1,12 @@
 name = "skylogged"
 author = "Vercte"
-version = "4.0.3"
+version = "4.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8cca97cb5637d272eb830010fe2a0c28eaad591396ced9b1c92b5b987ec8b6f4"
+hash = "5c31d726a61fa087bc65bfce2dfcf702db6294b25722170bc237169aeceac562"
 
 [versions]
 minecraft = "1.21.1"
