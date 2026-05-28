@@ -38,11 +38,7 @@ hash = "fdc28ad530da79817e394b7bf5a4818a6dfc075de38fb08d2db678cb891817e9"
 
 [[files]]
 file = "config/reliable_recipes/remove.json"
-hash = "1585d56b2da4d84b791428685b05c83745ee4d3feb9bfffb8cc3f608b631e127"
-
-[[files]]
-file = "config/reliable_recipes/remove_variants.json"
-hash = "2a558b57bf386ceec59b790b26885019f5377816848ec0fa9c944a0369a7257d"
+hash = "8e3f3513e434b315104f7672a69b17fad6f7b08cb84a6ff5d67eb60c5c6cf164"
 
 [[files]]
 file = "config/reliable_recipes/replace.json"
@@ -85,10 +81,6 @@ file = "datapacks/recipe_tweaks/data/create/tags/item/pulpifiable.json"
 hash = "482a602a1ab1469ed6b9710b0e13a2745e44082c5b2e3cb5d81dd172ad2dddc4"
 
 [[files]]
-file = "datapacks/recipe_tweaks/data/minecraft/shape_map/add_shapes.json"
-hash = "e5667b535ea2b7a1aef1bef5899869cfc1d8a25778eea1973c3bd18af86787bb"
-
-[[files]]
 file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/compacting/netherrack_from_scoria.json"
 hash = "511c6111cec627bea9f59ff61f95689c44b0a56c461009cc342a83c71e22af00"
 
@@ -99,70 +91,6 @@ hash = "31ae75321e98354dac63df06efe883456bc3d82ad2225e6b7491ccb22de184da"
 [[files]]
 file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/barrel.json"
 hash = "6d0587200839cc9619364fdb74832393bf8526e3ca25b958c721bad9b6ba3ae2"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/acacia_cabinet.json"
-hash = "301ac6c1857623c55d3d70cc446349c3d7e89d762fdee1bc51ddff88063e75cf"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/bamboo_cabinet.json"
-hash = "97c6e2811935383cd42a83e06b7a75ef45eaef1345189228f367ec69155b8973"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/birch_cabinet.json"
-hash = "d2dd376f2b048454745259c2ac051b02965b45d501f4c95bbb19d62b855e121f"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/cherry_cabinet.json"
-hash = "04d07c38f82082ef9fbec985f0e416bfd8bd7f1e84d7427b85d3f81d8be569b1"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/crimson_cabinet.json"
-hash = "2c7cd512114deeb1460f84a0eae086f3f7c34a867a38675a714faa86c598b3be"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/dark_oak_cabinet.json"
-hash = "2091b61c8b297c4e617b17db57cf4af9cfc6a1f22a64419df1c0d228960f23c7"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/jungle_cabinet.json"
-hash = "9f0160aed4194277f7fac4341e4dbf3b32fc6a29c83aaf841d99d398142011bb"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/mangrove_cabinet.json"
-hash = "45a52e857d6960a90246cc6d8e039c92f757393fcd7b14e7ddbd433c6932c0c6"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/maple_cabinet.json"
-hash = "20347a1ea37f5df2dde3b75eed1286f4b16e90969c14591e7ca1ec9b087ff364"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/oak_cabinet.json"
-hash = "f380782dc6e408e0af30f6e74e8f5cfcb9312f4cee745d486c3809b12e39ec18"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/pale_oak_cabinet.json"
-hash = "6a41ed5b27cb14aa70390b87844b84aad780b7f70531f49dc5193200766e56e6"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/pine_cabinet.json"
-hash = "c783209f8a656d15880fde4346fe1d3716d51345cb998b3833861b89fe40c660"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/spruce_cabinet.json"
-hash = "5048041f256c868791d48f119718f821d95b5eea7c7d93b8bae56303a38e92db"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/walnut_cabinet.json"
-hash = "2c30a6b53e36c65b118f22c9e06ab1f8c8b3c62f33918144b38eff0f8590b951"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/warped_cabinet.json"
-hash = "9ce92d32ba5b9b594dddd11b7fb85ba931b53b161269b632982c86f155b58398"
-
-[[files]]
-file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cabinet/willow_cabinet.json"
-hash = "e57d8b95972bf88264936f77ec0b93aece053753bb0e39fda715ce7d098cc953"
 
 [[files]]
 file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/cannons/mould/autocannon_barrel_cast_mould.json"
@@ -245,6 +173,10 @@ file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdo
 hash = "595af8ed676edb860a387e1ffe7d7a644a1b8f74d44b43d0eee45ae6bf65cefc"
 
 [[files]]
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/date_trapdoor.json"
+hash = "0da266d1181be0c6f5c35164dbae8f02fb8e6fc5584eac77fde5ba19728f58c2"
+
+[[files]]
 file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/jungle_trapdoor.json"
 hash = "a05ca35e9d04ba88aa784819854919d6b31fb04d26448fd9ee7fde4ed9130bf9"
 
@@ -267,6 +199,10 @@ hash = "e296fcb7860874b5c2f26f92bc601cf69fd73f0ebde3eef049eba8a6052320ed"
 [[files]]
 file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/pine_trapdoor.json"
 hash = "6b7ff9c061a144e8579cb35a83d46f91abd1cdd697c9cf4efbf523e98602406f"
+
+[[files]]
+file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/rotten_trapdoor.json"
+hash = "2ca145a317ff41230315f70747a5e3e9fbf8e0966ce7577abcb0f6363342be6f"
 
 [[files]]
 file = "datapacks/recipe_tweaks/data/recipe_tweaks/recipe/crafting/shaped/trapdoor/spruce_trapdoor.json"

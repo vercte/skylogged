@@ -16,12 +16,7 @@
   },
   {
     "action": "remove_recipe",
-    "mod": [ "minecraft", "nomansland" ],
-    "output": "#minecraft:wooden_trapdoors"
-  },
-  {
-    "action": "remove_recipe",
-    "mod": [ "minecraft", "nomansland" ],
+    "mod": [ "minecraft", "nomansland", "spawn" ],
     "output": "#minecraft:wooden_trapdoors"
   },
   {
@@ -31,18 +26,8 @@
   },
   {
     "action": "remove_recipe",
-    "mod": [ "minecraft" ],
-    "input": "#slabs"
-  },
-  {
-    "action": "remove_recipe",
     "mod": "supplementaries",
     "output": "supplementaries:pedestal"
-  },
-  {
-    "action": "remove",
-    "mod": [ "farmersdelight", "nomansland", "everycomp" ],
-    "output": "#farmersdelight:cabinets/wooden"
   },
   {
     "action": "remove_recipe",
