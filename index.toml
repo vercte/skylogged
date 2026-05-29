@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/clutter-no-more.pw.toml"
-hash = "8d880a5df6341ed828dc4dde0a85de0e761aed51a862e9148e6499972e06835d"
+hash = "3c3e9f353f6625c0eccb8d2d5b7c7d5c5b415e4b2a8598befebf42162fe3d9aa"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "75d61a4c3493db5674ffaf4e422a5edc2b25261fd966ba23f2ad4ce5fba3acc2"
+hash = "1b813f367f5fb795bfd22fb78392da5f654be59ab9bc138242c1664bd540882e"
 metafile = true
 
 [[files]]
@@ -816,12 +816,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-gliders.pw.toml"
-hash = "f68fb8927ad9a2ab5fb92197b34377bb44028d0e0bd985b0940ec59e0ecce9a4"
+hash = "bd639dd2e391de3507e747ebc819df5dab767602cb6d3d88276844d70f2efdd6"
 metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "cd062a5fba9458805787d6da805e0f4dbcb10dc31edf3133955af43a310576d3"
+hash = "9a31ed8afe1b0c2c5741d3fa11d193478055521224ae2f5bd6cbe638ebd256c6"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "088b4db54168e69a4843cad9c85c5beb53c22a48f5fb7d5f420a4c8b77085dae"
+hash = "6525922085dd87b29d09569327bdf435928af31be032c8663516a54fd03725fb"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/satchels.pw.toml"
-hash = "a326b4bfe37c6df86326818bb6e690872a0bbb2e5308c7a8ea5f9bf795f02d1d"
+hash = "d8794628a47406a0ea12f01f270d73c5599777b5d6c51cad4da1bdf6a867544d"
 metafile = true
 
 [[files]]
@@ -861,7 +861,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
+hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
 
 [[files]]

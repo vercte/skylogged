@@ -1,15 +1,15 @@
 name = "satchels"
-filename = "satchels-1.0.0+alpha.6.jar"
+filename = "satchels-1.0.0+alpha.6.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/vercte/satchels/releases/download/alpha.6/satchels-1.0.0%2Balpha.6.jar"
+url = "https://github.com/vercte/satchels/releases/download/alpha.6.1/satchels-1.0.0%2Balpha.6.1.jar"
 hash-format = "sha256"
-hash = "3c2ad0bac5315344d9a49cba68b42151999d24e27428ece4a93e214cdf216632"
+hash = "f6a29a34fcdc8c1780295ed39a9b6879de74436ca7ac1baea1007bbd3542f5dd"
 
 [update]
 [update.github]
 branch = "1.21.1/neo/dev"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "vercte/satchels"
-tag = "alpha.6"
+tag = "alpha.6.1"

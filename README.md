@@ -36,7 +36,7 @@ You may want to look at the premise of these mods—they can change gameplay qui
     - [Create: Garnished Reworked](https://modrinth.com/mod/create-garnished-reworked)
     - [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R)
     - [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI)
-    - [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5),
+    - [Create: Extended Wrenches](https://modrinth.com/mod/WNRCHiE5)
     - [Create: Gears n' Kinetics](https://modrinth.com/mod/gears-n-kinetics)
 - [Every Compat](https://modrinth.com/mod/eiktJyw1)
 - [Exposure](https://modrinth.com/mod/exposure)
